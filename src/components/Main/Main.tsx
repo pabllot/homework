@@ -6,10 +6,10 @@ const Main = () => {
   return (
     <div className='mainWrapper'>
         <Link to='/lesson1' style={{ textDecoration: 'none' }}>
-            <p>LESSON ONE</p>
+            <p>LESSON 1</p>
         </Link>
         <Link to='/lesson2' style={{ textDecoration: 'none' }} >
-            <p>LESSON TWO</p>
+            <p>LESSON 2</p>
         </Link>
         <Link to='/lesson3' style={{ textDecoration: 'none' }} >
             <p>LESSON 3</p>
