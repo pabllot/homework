@@ -1,3 +1,17 @@
 button {
     background-color: aqua;
 }
+
+.mainWrapper {
+    background: linear-gradient(to bottom, rgb(0, 0, 248), rgb(39, 161, 198));
+    height: 100vh;
+}
+
+p {
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    border: 2px solid white;
+    margin: 13px 25px;
+
+}
