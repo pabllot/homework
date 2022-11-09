@@ -8,6 +8,10 @@ const lessonOne = [
   {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
   {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
   {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
+  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
+  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
+  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
+  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
 
 ]
 const Questions = () => {
@@ -18,8 +22,11 @@ const Questions = () => {
           {lessonOne.map((item) =>  ( 
           <div className="box" key={item.number}>
             <h4>{item.question}</h4>
+            <div>
+
             <input onChange={(e) => setAnswerSubmited(e.target.value)} />
             <Button answerSubmited={answerSubmited} answer={item.answer} number={item.number}  />
+            </div>
           </div>
            ))}        
         </div>
