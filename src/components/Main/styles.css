@@ -1,15 +1,20 @@
 .mainWrapper {
+    width: 100vw;
     background: linear-gradient(to bottom, rgb(0, 0, 248), rgb(39, 161, 198));
-    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 p {
     text-align: center;
     color: blue;
-    background-color: rgba(184, 167, 167, 0.5);
+    background-color: rgb(200, 200, 200, 0.9);
     border-radius: 25px;
     margin: 13px 25px;
     height: 1.5rem;
+    width: 333px;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
 

@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom'
+import Navbar from '../Navbar/Navbar'
 import './styles.css'
 
 const Main = () => {
   return (
     <div className='mainWrapper'>
+        <Navbar />
         <Link to='/lesson1' style={{ textDecoration: 'none' }}>
             <p>LESSON 1</p>
         </Link>
