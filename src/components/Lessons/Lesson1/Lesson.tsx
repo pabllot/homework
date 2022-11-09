@@ -3,12 +3,6 @@ import Button from "../../Button/Button"
 import './styles.css'
 import data from '../../data.json'
 
-const lessonOne = [
-  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
-  {number: 2, question: 'eu como frango', answer: 'i eat chicken'},
-
-
-]
 const Questions = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
