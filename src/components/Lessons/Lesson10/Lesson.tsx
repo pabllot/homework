@@ -1,15 +1,8 @@
 import { useState } from "react"
 import Button from "../../Button/Button"
-import './styles.css'
 import data from '../../data.json'
 
-const lessonOne = [
-  {number: 1, question: 'eu como frango', answer: 'i eat chicken'},
-  {number: 2, question: 'eu como frango', answer: 'i eat chicken'},
-
-
-]
-const Questions = () => {
+const Lesson10 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
       return (
@@ -28,4 +21,4 @@ const Questions = () => {
       )
     }
     
-export default Questions
+export default Lesson10

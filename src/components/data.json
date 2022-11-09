@@ -1,28 +1,28 @@
 {
     "lessons" : { 
         "lesson1": [
-    {"number": 1, "question": "Eu como peixe", "answer": "i"},
+    {"number": 1, "question": "Eu como peixe", "answer": "i eat fish"},
     {"number": 2, "question": "Voce bebe agua", "answer": "you drink water"},
     {"number": 3, "question": "Eu como frango", "answer": "i eat chicken"},
-    {"number": 4, "question": "Eu como frango no almoço", "answer": "i eat chicken"},
-    {"number": 5, "question": "Eu como pão no café da manhã", "answer": "i eat chicken"},
-    {"number": 6, "question": "Eu não bebo um copo de água", "answer": "i eat chicken"},
-    {"number": 7, "question": "Você come peixe no jantar?", "answer": "i eat chicken"},
-    {"number": 8, "question": "Eu não bebo uma xícara de café", "answer": "i eat chicken"},
-    {"number": 9, "question": "Você bebe chá no café da manhã?", "answer": "i eat chicken"},
-    {"number": 10, "question": "Eu não bebo um copo de suco", "answer": "i eat chicken"}
+    {"number": 4, "question": "Eu como carne bovina no almoço", "answer": "i eat beef for lunch"},
+    {"number": 5, "question": "Eu como pão no café da manhã", "answer": "i eat bread for breakfast"},
+    {"number": 6, "question": "Eu não bebo um copo de água", "answer": "i don't drink a glass of water"},
+    {"number": 7, "question": "Você come peixe no jantar?", "answer": "do you eat fish for dinner?"},
+    {"number": 8, "question": "Eu não bebo uma xícara de café", "answer": "i don't drink a cup of coffee"},
+    {"number": 9, "question": "Você bebe chá no café da manhã?", "answer": "do you drink tea for breakfast?"},
+    {"number": 10, "question": "Eu não bebo um copo de suco", "answer": "i don't drink a glass of juice"}
   ],
   "lesson2": [
-    {"number": 1, "question": "eu 2 peixe", "answer": "i eat chicken"},
-    {"number": 2, "question": "voce bebe agua", "answer": "you drink water"},
-    {"number": 3, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 4, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 5, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 6, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 7, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 8, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 9, "question": "eu como frango", "answer": "i eat chicken"},
-    {"number": 10, "question": "eu como frango", "answer": "i eat chicken"}
+    {"number": 1, "question": "Eu falo inglês com minha mãe", "answer": "i speak english with my mother"},
+    {"number": 2, "question": "Você fala espanhol com seu primo?", "answer": "do you speak spanish with your cousin?"},
+    {"number": 3, "question": "Eu estudo espanhol com minha irmã", "answer": "i study spanish with my sister"},
+    {"number": 4, "question": "Você estuda frances com seu pai?", "answer": "do you study french with your father?"},
+    {"number": 5, "question": "Eu gosto de estudar alemão com meu irmão", "answer": "i like to study german with my brother"},
+    {"number": 6, "question": "Eu nao gosto de falar frances com meu avô", "answer": "i eat chicken"},
+    {"number": 7, "question": "Você gosta de estudar com seu irmao de tarde?", "answer": "i eat chicken"},
+    {"number": 8, "question": "Eu nao gosto de falar francês a noite", "answer": "i eat chicken"},
+    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "i eat chicken"},
+    {"number": 10, "question": "Eu estudo inglês de manhã", "answer": "i eat chicken"}
   ],
   "lesson3": [
     {"number": 1, "question": "eu 3 peixe", "answer": "i eat chicken"},

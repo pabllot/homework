@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import './styles.css'
 
 type Props = {
     answer?: any;
@@ -17,7 +16,7 @@ const Button = ({answer, number, answerSubmited}: Props) => {
         else setColor('red'), setBtn('Wrong')
       } 
   return (
-    <button  style={{backgroundColor: color, color: 'white', fontFamily: 'Poppins', width: '4rem', height:'1.5rem',  borderRadius: '50px', outline: 'none', border:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
+    <button  style={{backgroundColor: color, color: 'white', fontFamily: 'Poppins', fontWeight: '200', width: '4rem', height:'1.5rem',  borderRadius: '50px', outline: 'none', border:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
         {btn}
     </button>
   )
