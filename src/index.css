@@ -1,7 +1,6 @@
 body {
-    background-color: black;
+    background: linear-gradient(to bottom, rgb(0, 0, 248), rgb(39, 161, 198));
     box-sizing: border-box;
-    height: 100vh;
     padding: 0;
     margin: 0;
 }
