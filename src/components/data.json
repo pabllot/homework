@@ -1,0 +1,28 @@
+{
+    "lessons" : { 
+        "lesson1": [
+    {"number": 1, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 2, "question": "voce bebe agua", "answer": "you drink water"},
+    {"number": 3, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 4, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 5, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 6, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 7, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 8, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 9, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 10, "question": "eu como frango", "answer": "i eat chicken"}
+  ],
+  "lesson2": [
+    {"number": 1, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 2, "question": "voce bebe agua", "answer": "you drink water"},
+    {"number": 3, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 4, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 5, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 6, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 7, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 8, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 9, "question": "eu como frango", "answer": "i eat chicken"},
+    {"number": 10, "question": "eu como frango", "answer": "i eat chicken"}
+  ]
+  
+  }}

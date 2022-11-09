@@ -1,31 +1,24 @@
 import React, { useState } from 'react'
+import './styles.css'
 
 type Props = {
-    answer: string;
-    number: number;
-
-    answerSubmited: string;
+    answer?: any;
+    number?: number;
+    answerSubmited?: any;
 }
 
 const Button = ({answer, number, answerSubmited}: Props) => {
     const [color, setColor] = useState('gray')
+    const [btn, setBtn] = useState('send')
 
-
-    const magic = (numberr: number) => {
-        if (numberr === number)
-        setColor('green')
-        else 
-        setColor('red')
-    }
-
-    const evaluate = (anwerMap: string, id: number, answerSubmited: string) => {
-        if (answerSubmited.toLocaleLowerCase() === anwerMap)
-        magic(number), console.log(id)
-        else setColor('red')
+    const evaluate = (answer: string, answerSubmited: string) => {
+        if (answerSubmited.toLocaleLowerCase() === answer)
+        setColor('green'), setBtn('Right')
+        else setColor('red'), setBtn('Wrong')
       } 
   return (
-    <button style={{background: color}}  onClick={() => evaluate(answer, number, answerSubmited)}>
-        send
+    <button  style={{backgroundColor: color, width: '4rem', height:'1.5rem',  borderRadius: '8px', outline: 'none', borderStyle:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
+        {btn}
     </button>
   )
 }

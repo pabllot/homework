@@ -1,8 +1,14 @@
-import Questions from "./components/Questions/Questions"
+import Questions from "./components/Question/Question"
+import { BrowserRouter, Route, Routes}  from 'react-router-dom'
+import './index.css'
 
 function App() {
   return (
-    <Questions />
+    <BrowserRouter>
+    <Routes>
+      <Route path='/' element={<Questions />}/>
+    </Routes>
+    </BrowserRouter>
   )
 }
 
