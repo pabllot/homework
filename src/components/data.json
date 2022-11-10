@@ -61,16 +61,16 @@
     {"number": 10, "question": "Quando você quer ir ao banco?", "answer": "when do you want to go to the bank"}
   ],
   "lesson6": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Ela quer escrever um livro", "answer": "she wants to write a book"},
+    {"number": 2, "question": "Ele precisa ler o livro agora", "answer": "he needs to read the book now"},
+    {"number": 3, "question": "Ela gosta de escrever de manhã", "answer": "she likes to write in the morning"},
+    {"number": 4, "question": "Ele não quer escrever um livro", "answer": "he doesn't want to write a book"},
+    {"number": 5, "question": "Ela precisa ler o livro agora?", "answer": "does he need to read the book now?"},
+    {"number": 6, "question": "Ela come pão no café da manhã", "answer": "she eats bread for breakfast"},
+    {"number": 7, "question": "Ela não bebe aguá no almoço", "answer": "she doesn't drink water for lunch"},
+    {"number": 8, "question": "Ele trabalha no escritório?", "answer": "does he work in the office"},
+    {"number": 9, "question": "Ela não gosta de estudar no parque", "answer": "she doesn't like to study in the park"},
+    {"number": 10, "question": "Ele precisa ir para a igreja?", "answer": "does he need to go to church?"}
   ],
   "lesson7": [
     {"number": 1, "question": "", "answer": ""},
