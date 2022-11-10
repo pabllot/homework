@@ -1,8 +1,9 @@
 import { useState } from "react"
+//@ts-ignore
 import Button from "../../Button/Button"
 import data from '../../data.json'
-import GetBack from "../../getBack/getBack"
-
+//@ts-ignore
+import GetBack from "../../getBack/GetBack"
 const Lesson9 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
