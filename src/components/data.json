@@ -37,28 +37,28 @@
     {"number": 10, "question": "Eu não quero estudar com minha sobrinha", "answer": "i don't want to study with my niece"}
   ],
   "lesson4": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Eles precisam trabalhar no mercado amanhã?", "answer": "do they need to work in the store tomorrow?"},
+    {"number": 2, "question": "Eu gosto de tocar piano no escritório", "answer": "i like to play the piano in the office"},
+    {"number": 3, "question": "Nós gostamos de jogar futebol com seu tio", "answer": "we like to play soccer with your uncle"},
+    {"number": 4, "question": "Eu não quero estudar chinês com meu irmão", "answer": "i don't want to study chinese with my brother"},
+    {"number": 5, "question": "Onde eles querem estudar amanhã?", "answer": "where do they want to study tomorrow?"},
+    {"number": 6, "question": "Elas precisam trabalhar no parque hoje", "answer": "they need to work in the park today"},
+    {"number": 7, "question": "Nós precisamos trabalhar no banco amanhã", "answer": "we need to work in the bank tomorrow"},
+    {"number": 8, "question": "Quando elas querem tocar piano?", "answer": "when do they want to play the piano?"},
+    {"number": 9, "question": "Nós trabalhamos no banco todos os dias", "answer": "we work in th bank every day"},
+    {"number": 10, "question": "Eu brinco com meu irmão de manhã", "answer": "i play with my brother in the morning"}
   ],
   "lesson5": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Eu vou para o cinema todos os dias", "answer": "i go to the movies every day"},
+    {"number": 2, "question": "Você quer ir para o escritório comigo?", "answer": "do you want to go to the office with me?"},
+    {"number": 3, "question": "Eles vão para o shopping de manhã", "answer": "they go to the mall in the morning"},
+    {"number": 4, "question": "Onde você quer ir amanhã?", "answer": "where do you want to go tomorrow?"},
+    {"number": 5, "question": "Nós precisamos vir para a igreja amanhã", "answer": "we need to come to church tomorrow"},
+    {"number": 6, "question": "Nós precisamos ir ao centro", "answer": "we need to go downtown"},
+    {"number": 7, "question": "Eu não gosto de ir para o escritório", "answer": "i don't like to go to the office"},
+    {"number": 8, "question": "O que você quer comer no shopping?", "answer": "what do you want to eat in the mall?"},
+    {"number": 9, "question": "Eles querem ir para a rodoviaria", "answer": "they want to go to the bus station"},
+    {"number": 10, "question": "Quando você quer ir ao banco?", "answer": "when do you want to go to the bank"}
   ],
   "lesson6": [
     {"number": 1, "question": "", "answer": ""},

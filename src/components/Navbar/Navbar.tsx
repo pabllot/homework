@@ -3,7 +3,7 @@ import './Navbarstyles.css'
 const Navbar = () => {
   return (
     <div className='navcontainer'>
-      <h1>ingles<span>com</span>pablot</h1>
+      <h1>ingles<span>com</span>pablot </h1>
     </div>
   )
 }
