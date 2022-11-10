@@ -73,16 +73,16 @@
     {"number": 10, "question": "Ele precisa ir para a igreja?", "answer": "does he need to go to church?"}
   ],
   "lesson7": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Eu tenho que ir para a escola hoje", "answer": "i have to go to school today"},
+    {"number": 2, "question": "Ela tem que trabalhar hoje", "answer": "she has to work today"},
+    {"number": 3, "question": "Eles preferem comer frango no jantar", "answer": "they prefer to eat chicken for dinner"},
+    {"number": 4, "question": "Eu trabalho como um garçom", "answer": "i work as a waiter"},
+    {"number": 5, "question": "Nós ainda gostamos de estudar de manhã", "answer": "we still like to study in the morning"},
+    {"number": 6, "question": "Por que você prefere ir para o cinema?", "answer": "why do you prefer to go to the movies?"},
+    {"number": 7, "question": "Ela prefere trabalhar no banco", "answer": "she prefers to work in the bank"},
+    {"number": 8, "question": "Quanto dinheiro você tem?", "answer": "how much money do you have?"},
+    {"number": 9, "question": "Quanto dinheiro ela tem?", "answer": "how much money does she have?"},
+    {"number": 10, "question": "Quantos livros ele tem?", "answer": "how many books does he have?"}
   ],
   "lesson8": [
     {"number": 1, "question": "", "answer": ""},
