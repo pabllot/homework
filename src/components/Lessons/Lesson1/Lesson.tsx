@@ -1,6 +1,5 @@
 import { useState } from "react"
-//@ts-ignore
-import Button from "../../Button/Button"
+import Button from "../../Button/ButtonBox"
 import data from '../../data.json'
 //@ts-ignore
 import GetBack from "../../getBack/GetBack"
