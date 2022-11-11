@@ -121,28 +121,28 @@
     {"number": 10, "question": "Ela precisa vender o carro dela", "answer": "she needs to sell her car"}
   ],
   "lesson11": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Por que ele está triste?", "answer": "why is he sad?"},
+    {"number": 2, "question": "Ele está triste porque ele não tem dinheiro", "answer": "he is sad because he doesn't have money"},
+    {"number": 3, "question": "Por que ela está brava?", "answer": "why is she angry?"},
+    {"number": 4, "question": "Ela está brava porque ela não quer ir", "answer": "she is angry because she doesn't want to go"},
+    {"number": 5, "question": "Por que você está com sede?", "answer": "why are you thirsty?"},
+    {"number": 6, "question": "Eu estou com sede porque eu não tenho água", "answer": "I'm thirsty because i don't have water"},
+    {"number": 7, "question": "Onde você está?", "answer": "where are you?"},
+    {"number": 8, "question": "Ela está no banco com a mãe dela", "answer": "she is in the bank with her mother"},
+    {"number": 9, "question": "Nós estamos no parque com nosso cachorro", "answer": "we are in the park with our dog"},
+    {"number": 10, "question": "Ele não está na cozinha", "answer": "he isn't in the kitchen"}
   ],
   "lesson12": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Ela caminha com a irmã dela de manhã", "answer": "she walks with her sister in the morning"},
+    {"number": 2, "question": "Nós não corremos de tarde", "answer": "we don't run in the afternoon"},
+    {"number": 3, "question": "Ele caminha ao redor do bairro?", "answer": "he walks around the neighborhood"},
+    {"number": 4, "question": "Ela está atrás da biblioteca", "answer": "she is behind the library"},
+    {"number": 5, "question": "O carro está em frente ao banco", "answer": "the car is in front of the bank"},
+    {"number": 6, "question": "Nós não queremos ir para a festa", "answer": "we don't want to go to the party"},
+    {"number": 7, "question": "Elas estão atrás do shopping", "answer": "they are behind the mall"},
+    {"number": 8, "question": "O livro está em cima da mesa", "answer": "the book is over the table"},
+    {"number": 9, "question": "Os livros estão embaixo da mesa", "answer": "the books are under the table"},
+    {"number": 10, "question": "Ela precisa comprar um sofá novo", "answer": "she needs to buy a new couch"}
   ],
   "lesson13": [
     {"number": 1, "question": "", "answer": ""},
