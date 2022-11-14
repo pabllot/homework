@@ -145,16 +145,16 @@
     {"number": 10, "question": "Ela precisa comprar um sofá novo", "answer": "she needs to buy a new couch"}
   ],
   "lesson13": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Eu quero saber sobre isso", "answer": "i want to know about this"},
+    {"number": 2, "question": "Nós precisamos saber se ele vem", "answer": "we need to know if he comes"},
+    {"number": 3, "question": "Meu primo não mora aqui", "answer": "my cousin doesn't live here"},
+    {"number": 4, "question": "Ele sabe a verdade?", "answer": "does he know the truth?"},
+    {"number": 5, "question": "Meus parentes moram perto da praia", "answer": "my relatives live near the beach"},
+    {"number": 6, "question": "Ela quer ir para o restaurante de novo", "answer": "she wants to go to the restaurant again"},
+    {"number": 7, "question": "Eu sei tocar piano muito bem", "answer": "i know how to play the piano very well"},
+    {"number": 8, "question": "Ela fala inglês muito bem", "answer": "she speak english very well"},
+    {"number": 9, "question": "Nós moramos longe do escritório", "answer": "we live far from the office"},
+    {"number": 10, "question": "Eu geralmente estudo de manhã ", "answer": "i usually study in the morning"}
   ],
   "lesson14": [
     {"number": 1, "question": "", "answer": ""},
