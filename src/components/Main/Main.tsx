@@ -7,31 +7,31 @@ const Main = () => {
     <div className='mainWrapper'>
         <Navbar />
         <Link to='/lesson1' style={{ textDecoration: 'none' }}>
-            <p>LESSON 1</p>
+            <p>Lesson 01</p>
         </Link>
         <Link to='/lesson2' style={{ textDecoration: 'none' }} >
-            <p>LESSON 2</p>
+            <p>LESSON 02</p>
         </Link>
         <Link to='/lesson3' style={{ textDecoration: 'none' }} >
-            <p>LESSON 3</p>
+            <p>LESSON 03</p>
         </Link>
         <Link to='/lesson4' style={{ textDecoration: 'none' }} >
-            <p>LESSON 4</p>
+            <p>LESSON 04</p>
         </Link>
         <Link to='/lesson5' style={{ textDecoration: 'none' }} >
-            <p>LESSON 5</p>
+            <p>LESSON 05</p>
         </Link>
         <Link to='/lesson6' style={{ textDecoration: 'none' }} >
-            <p>LESSON 6</p>
+            <p>LESSON 06</p>
         </Link>
         <Link to='/lesson7' style={{ textDecoration: 'none' }} >
-            <p>LESSON 7</p>
+            <p>LESSON 07</p>
         </Link>
         <Link to='/lesson8' style={{ textDecoration: 'none' }} >
-            <p>LESSON 8</p>
+            <p>LESSON 08</p>
         </Link>
         <Link to='/lesson9' style={{ textDecoration: 'none' }} >
-            <p>LESSON 9</p>
+            <p>LESSON 09</p>
         </Link>
         <Link to='/lesson10 ' style={{ textDecoration: 'none' }}>
             <p>LESSON 10</p>
