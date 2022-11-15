@@ -10,46 +10,46 @@ const Main = () => {
             <p>Lesson 01</p>
         </Link>
         <Link to='/lesson2' style={{ textDecoration: 'none' }} >
-            <p>LESSON 02</p>
+            <p>Lesson 02</p>
         </Link>
         <Link to='/lesson3' style={{ textDecoration: 'none' }} >
-            <p>LESSON 03</p>
+            <p>Lesson 03</p>
         </Link>
         <Link to='/lesson4' style={{ textDecoration: 'none' }} >
-            <p>LESSON 04</p>
+            <p>Lesson 04</p>
         </Link>
         <Link to='/lesson5' style={{ textDecoration: 'none' }} >
-            <p>LESSON 05</p>
+            <p>Lesson 05</p>
         </Link>
         <Link to='/lesson6' style={{ textDecoration: 'none' }} >
-            <p>LESSON 06</p>
+            <p>Lesson 06</p>
         </Link>
         <Link to='/lesson7' style={{ textDecoration: 'none' }} >
-            <p>LESSON 07</p>
+            <p>Lesson 07</p>
         </Link>
         <Link to='/lesson8' style={{ textDecoration: 'none' }} >
-            <p>LESSON 08</p>
+            <p>Lesson 08</p>
         </Link>
         <Link to='/lesson9' style={{ textDecoration: 'none' }} >
-            <p>LESSON 09</p>
+            <p>Lesson 09</p>
         </Link>
         <Link to='/lesson10 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 10</p>
+            <p>Lesson 10</p>
         </Link>
         <Link to='/lesson11 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 11</p>
+            <p>Lesson 11</p>
         </Link>
         <Link to='/lesson12 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 12</p>
+            <p>Lesson 12</p>
         </Link>
         <Link to='/lesson13 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 13</p>
+            <p>Lesson 13</p>
         </Link>
         <Link to='/lesson14 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 14</p>
+            <p>Lesson 14</p>
         </Link>
         <Link to='/lesson15 ' style={{ textDecoration: 'none' }}>
-            <p>LESSON 15</p>
+            <p>Lesson 15</p>
         </Link>
     </div>
   )
