@@ -16,7 +16,6 @@ import Lesson15 from "./components/Lessons/Lesson15/Lesson"
 import { BrowserRouter, Route, Routes}  from 'react-router-dom'
 import './index.css'
 import Main from "./components/Main/Main"
-import Navbar from "./components/Navbar/Navbar"
 
 function App() {
   return (
@@ -38,7 +37,6 @@ function App() {
       <Route path='/lesson13' element={<Lesson13 />}/>
       <Route path='/lesson14' element={<Lesson14 />}/>
       <Route path='/lesson15' element={<Lesson15 />}/>
-      <Route path='/nav' element={<Navbar />}/>
   
     </Routes>
     </BrowserRouter>

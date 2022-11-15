@@ -157,18 +157,30 @@
     {"number": 10, "question": "Eu geralmente estudo de manhã ", "answer": "i usually study in the morning"}
   ],
   "lesson14": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Nós sempre pensamos sobre os animais", "answer": "we always think about the animals"},
+    {"number": 2, "question": "Ele geralmente não entende o pai dele", "answer": "he usually doesn't understand his father"},
+    {"number": 3, "question": "Ela não gosta de conversar de manhã", "answer": "she doens't like to talk in the morning"},
+    {"number": 4, "question": "Nós precisamos estudar geografia", "answer": "we need to study geography"},
+    {"number": 5, "question": "Eles precisam estudar com os colegas deles", "answer": "they need to study with their classmates"},
+    {"number": 6, "question": "Ela falta aula quando ela está doente", "answer": "she skips class when she is sick"},
+    {"number": 7, "question": "Você prefere fazer o teste de tarde?", "answer": "do you prefer to take the test in the afternoon?"},
+    {"number": 8, "question": "Nós já sabemos ler", "answer": "we already know how to read"},
+    {"number": 9, "question": "Minha irmã não gosta de biologia", "answer": "my sister doesn't like biology"},
+    {"number": 10, "question": "O diretor está bravo comigo", "answer": "the principal is angry with me"}
   ],
   "lesson15": [
+    {"number": 1, "question": "Eu posso comprar um carro novo", "answer": "i can buy a new car"},
+    {"number": 2, "question": "Você não pode comer aqui", "answer": "you can't eat here"},
+    {"number": 3, "question": "Você consegue vender o carro dela?", "answer": "can you sell her car?"},
+    {"number": 4, "question": "Ela não consegue dormir no parque", "answer": "she can't sleep in the park"},
+    {"number": 5, "question": "Eu trabalho enquanto ela estuda", "answer": "i work while she studies"},
+    {"number": 6, "question": "Ele trabalha enquanto eles dormem", "answer": "he works while they sleep"},
+    {"number": 7, "question": "Eu não posso machucar a perna de novo", "answer": "i can't hurt the leg again"},
+    {"number": 8, "question": "Ela não consegue vender o carro dela", "answer": "she can't sell her car"},
+    {"number": 9, "question": "Eu posso ir para o cinema com você", "answer": "i can go to the movies with you"},
+    {"number": 10, "question": "Ela é minha melhor amiga", "answer": "she is my best friend"}
+  ],
+  "lesson16": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},
     {"number": 3, "question": "", "answer": ""},
