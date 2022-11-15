@@ -14,9 +14,13 @@ h1 {
     font-family: 'Poppins', sans-serif;
     margin-bottom: 0.5rem;
     font-weight: 400;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     letter-spacing: 0.6px;
 }
 span {
     color: black;
+    font-weight: 600;
+    font-size: 1.5rem;
+    letter-spacing: 0.6px;
+    margin: 0 1.5px;
 }
