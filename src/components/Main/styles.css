@@ -10,7 +10,7 @@
 p {
     text-align: center;
     color: rgb(255, 255, 255);
-    background-color: rgba(12, 11, 11);
+    background-color: rgb(255, 0, 0, 0.8);
     border-radius: 25px;
     margin: 13px 25px;
     height: 1.5rem;
