@@ -51,6 +51,9 @@ const Main = () => {
         <Link to='/lesson15 ' style={{ textDecoration: 'none' }}>
             <p>Lesson 15</p>
         </Link>
+        <Link to='/lesson16 ' style={{ textDecoration: 'none' }}>
+            <p>Lesson 16</p>
+        </Link>
     </div>
   )
 }

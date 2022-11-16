@@ -2,7 +2,7 @@
     "lessons" : { 
         "lesson1": [
     {"number": 1, "question": "Eu como peixe", "answer": "i eat fish"},
-    {"number": 2, "question": "Voce bebe agua", "answer": "you drink water"},
+    {"number": 2, "question": "Você bebe agua", "answer": "you drink water"},
     {"number": 3, "question": "Eu como frango", "answer": "i eat chicken"},
     {"number": 4, "question": "Eu como carne bovina no almoço", "answer": "i eat beef for lunch"},
     {"number": 5, "question": "Eu como pão no café da manhã", "answer": "i eat bread for breakfast"},
@@ -181,16 +181,16 @@
     {"number": 10, "question": "Ela é minha melhor amiga", "answer": "she is my best friend"}
   ],
   "lesson16": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 1, "question": "Eu gostaria de estudar com você", "answer": "i would like to study with you"},
+    {"number": 2, "question": "Ela gostaria de jogar vôlei amanhã", "answer": "she would like to play volleyball tomorrow"},
+    {"number": 3, "question": "Você gostaria de ir para o banco?", "answer": "would you like to go to the bank?"},
+    {"number": 4, "question": "Eu trabalho nessa empresa desde janeiro ", "answer": "i work in this company since january"},
+    {"number": 5, "question": "Ela quer vender a casa dela em setembro", "answer": "she wants to sell her house in september"},
+    {"number": 6, "question": "Nós não gostaríamos de estudar hoje", "answer": "we wouldn't like to study today"},
+    {"number": 7, "question": "Ela gostaria de estudar inglês?", "answer": "she would like to study english"},
+    {"number": 8, "question": "Ela almoça com os pais dela no sábados", "answer": "she has lunch with her parents on saturdays"},
+    {"number": 9, "question": "Nós gostamos de jantar com nosso filho", "answer": "we like to have dinner with our son"},
+    {"number": 10, "question": "Ela gostaria de acordar tarde amanhã", "answer": "she would like to wake up late tomorrow"}
   ]
   
   }}
