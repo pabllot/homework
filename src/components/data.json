@@ -191,6 +191,55 @@
     {"number": 8, "question": "Ela almoça com os pais dela no sábados", "answer": "she has lunch with her parents on saturdays"},
     {"number": 9, "question": "Nós gostamos de jantar com nosso filho", "answer": "we like to have dinner with our son"},
     {"number": 10, "question": "Ela gostaria de acordar tarde amanhã", "answer": "she would like to wake up late tomorrow"}
+  ],
+
+  "lesson17": [
+    {"number": 1, "question": "", "answer": ""},
+    {"number": 2, "question": "", "answer": ""},
+    {"number": 3, "question": "", "answer": ""},
+    {"number": 4, "question": "", "answer": ""},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""},
+    {"number": 10, "question": "", "answer": ""}
+  ],
+  "lesson18": [
+    {"number": 1, "question": "", "answer": ""},
+    {"number": 2, "question": "", "answer": ""},
+    {"number": 3, "question": "", "answer": ""},
+    {"number": 4, "question": "", "answer": ""},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""},
+    {"number": 10, "question": "", "answer": ""}
+  ],
+  "lesson19": [
+    {"number": 1, "question": "", "answer": ""},
+    {"number": 2, "question": "", "answer": ""},
+    {"number": 3, "question": "", "answer": ""},
+    {"number": 4, "question": "", "answer": ""},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""},
+    {"number": 10, "question": "", "answer": ""}
+  ],
+  "lesson20": [
+    {"number": 1, "question": "", "answer": ""},
+    {"number": 2, "question": "", "answer": ""},
+    {"number": 3, "question": "", "answer": ""},
+    {"number": 4, "question": "", "answer": ""},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""},
+    {"number": 10, "question": "", "answer": ""}
   ]
   
   }}
