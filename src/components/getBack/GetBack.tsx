@@ -1,13 +1,14 @@
 import { Link } from 'react-router-dom'
 import './getBack.css'
+import { IoMdArrowBack } from 'react-icons/io'
 
 const GetBack = () => {
   return (
-    <div className='getbackcontainer'>
-        <Link to='/' style={{ textDecoration: 'none' }}>            
-            <h1>Voltar</h1>
-        </Link>
-    </div>
+    <Link to='/' style={{ textDecoration: 'none' }}>            
+      <div className='arrowBack'>
+            {<IoMdArrowBack />}
+      </div>
+    </Link>
   )
 }
 
