@@ -124,7 +124,7 @@
   "lesson12": [
     {"number": 1, "question": "Ela caminha com a irmã dela de manhã", "answer": "she walks with her sister in the morning"},
     {"number": 2, "question": "Nós não corremos de tarde", "answer": "we don't run in the afternoon"},
-    {"number": 3, "question": "Ele caminha ao redor do bairro?", "answer": "he walks around the neighborhood"},
+    {"number": 3, "question": "Ele caminha ao redor do bairro?", "answer": "does he walk around the neighborhood?"},
     {"number": 4, "question": "Ela está atrás da biblioteca", "answer": "she is behind the library"},
     {"number": 5, "question": "O carro está em frente ao banco", "answer": "the car is in front of the bank"},
     {"number": 6, "question": "Nós não queremos ir para a festa", "answer": "we don't want to go to the party"},
