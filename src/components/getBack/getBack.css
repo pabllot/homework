@@ -10,3 +10,19 @@
     right: .4rem;
     border-radius: 25px;
 }
+
+@media only screen and (min-width: 600px) {
+        .arrowBack {
+            width: 5rem;
+            height: 5rem;
+            border-radius: 50px;
+            bottom: 2rem;
+            right: 2rem;
+        }
+
+        svg {
+            width: 5rem;
+            height: 2rem;
+            color: rgba(38, 0, 255);
+        }
+    }

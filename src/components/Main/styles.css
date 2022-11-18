@@ -8,12 +8,14 @@
 }
 
 p {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: rgb(255, 255, 255);
     background-color: rgb(255, 0, 0, 0.8);
-    border-radius: 25px;
+    border-radius: 15px;
     margin: 13px 25px;
-    height: 1.5rem;
+    height: 2rem;
     width: 333px;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
@@ -34,7 +36,7 @@ section {
     }
 
     p {
-        width: 5rem;
+        width: 6rem;
         height: 10rem;
         display: flex;
         align-items: center;

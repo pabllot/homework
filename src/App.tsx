@@ -1,22 +1,8 @@
-import Lesson1 from "./components/Lessons/Lesson1"
-import Lesson2 from "./components/Lessons/Lesson2"
-import Lesson3 from "./components/Lessons/Lesson3"
-import Lesson4 from "./components/Lessons/Lesson4"
-import Lesson5 from "./components/Lessons/Lesson"
-import Lesson6 from "./components/Lessons/Lesson6"
-import Lesson7 from "./components/Lessons/Lesson7"
-import Lesson8 from "./components/Lessons/Lesson8"
-import Lesson9 from "./components/Lessons/Lesson9"
-import Lesson10 from "./components/Lessons/Lesson10"
-import Lesson11 from "./components/Lessons/Lesson11"
-import Lesson12 from "./components/Lessons/Lesson12"
-import Lesson13 from "./components/Lessons/Lesson13"
-import Lesson14 from "./components/Lessons/Lesson14"
-import Lesson15 from "./components/Lessons/Lesson15"
+//@ts-ignore
+import { Lesson1, Lesson2, Lesson3, Lesson4, Lesson5, Lesson6, Lesson7, Lesson8, Lesson9, Lesson10, Lesson11, Lesson12, Lesson13, Lesson14, Lesson15, Lesson16 } from './components/Imports/Import'
 import { BrowserRouter, Route, Routes}  from 'react-router-dom'
 import './index.css'
 import Main from "./components/Main/Main"
-import Lesson16 from "./components/Lessons/lesson16"
 
 function App() {
   return (
