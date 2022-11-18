@@ -9,8 +9,7 @@
     {"number": 6, "question": "Eu não bebo um copo de água", "answer": "i don't drink a glass of water"},
     {"number": 7, "question": "Você come peixe no jantar?", "answer": "do you eat fish for dinner?"},
     {"number": 8, "question": "Eu não bebo uma xícara de café", "answer": "i don't drink a cup of coffee"},
-    {"number": 9, "question": "Você bebe chá no café da manhã?", "answer": "do you drink tea for breakfast?"},
-    {"number": 10, "question": "Eu não bebo um copo de suco", "answer": "i don't drink a glass of juice"}
+    {"number": 9, "question": "Você bebe chá no café da manhã?", "answer": "do you drink tea for breakfast?"}
   ],
   "lesson2": [
     {"number": 1, "question": "Eu falo inglês com minha mãe", "answer": "i speak english with my mother"},
@@ -21,8 +20,7 @@
     {"number": 6, "question": "Eu nao gosto de falar frances com meu avô", "answer": "i eat chicken"},
     {"number": 7, "question": "Você gosta de estudar com seu irmao de tarde?", "answer": "i eat chicken"},
     {"number": 8, "question": "Eu nao gosto de falar francês a noite", "answer": "i eat chicken"},
-    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "i eat chicken"},
-    {"number": 10, "question": "Eu estudo inglês de manhã", "answer": "i eat chicken"}
+    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "i eat chicken"}
   ],
   "lesson3": [
     {"number": 1, "question": "Eu preciso falar com meu filho", "answer": "i need to speak with my son"},
@@ -33,8 +31,7 @@
     {"number": 6, "question": "Eu preciso beber um copo de água agora", "answer": "i need to drink a glass of water now"},
     {"number": 7, "question": "Você precisa falar com minha filha?", "answer": "do you need to speak with my daughter?"},
     {"number": 8, "question": "Eu nao quero beber café no café da manhã", "answer": "i don't want to drink coffee for breakfast"},
-    {"number": 9, "question": "Você quer beber um copo de água?", "answer": "do you want to drink a glass of water?"},
-    {"number": 10, "question": "Eu não quero estudar com minha sobrinha", "answer": "i don't want to study with my niece"}
+    {"number": 9, "question": "Você quer beber um copo de água?", "answer": "do you want to drink a glass of water?"}
   ],
   "lesson4": [
     {"number": 1, "question": "Eles precisam trabalhar no mercado amanhã?", "answer": "do they need to work in the store tomorrow?"},
@@ -45,8 +42,7 @@
     {"number": 6, "question": "Elas precisam trabalhar no parque hoje", "answer": "they need to work in the park today"},
     {"number": 7, "question": "Nós precisamos trabalhar no banco amanhã", "answer": "we need to work in the bank tomorrow"},
     {"number": 8, "question": "Quando elas querem tocar piano?", "answer": "when do they want to play the piano?"},
-    {"number": 9, "question": "Nós trabalhamos no banco todos os dias", "answer": "we work in th bank every day"},
-    {"number": 10, "question": "Eu brinco com meu irmão de manhã", "answer": "i play with my brother in the morning"}
+    {"number": 9, "question": "Nós trabalhamos no banco todos os dias", "answer": "we work in th bank every day"}
   ],
   "lesson5": [
     {"number": 1, "question": "Eu vou para o cinema todos os dias", "answer": "i go to the movies every day"},
@@ -57,8 +53,7 @@
     {"number": 6, "question": "Nós precisamos ir ao centro", "answer": "we need to go downtown"},
     {"number": 7, "question": "Eu não gosto de ir para o escritório", "answer": "i don't like to go to the office"},
     {"number": 8, "question": "O que você quer comer no shopping?", "answer": "what do you want to eat in the mall?"},
-    {"number": 9, "question": "Eles querem ir para a rodoviaria", "answer": "they want to go to the bus station"},
-    {"number": 10, "question": "Quando você quer ir ao banco?", "answer": "when do you want to go to the bank"}
+    {"number": 9, "question": "Eles querem ir para a rodoviaria", "answer": "they want to go to the bus station"}
   ],
   "lesson6": [
     {"number": 1, "question": "Ela quer escrever um livro", "answer": "she wants to write a book"},
@@ -69,8 +64,7 @@
     {"number": 6, "question": "Ela come pão no café da manhã", "answer": "she eats bread for breakfast"},
     {"number": 7, "question": "Ela não bebe aguá no almoço", "answer": "she doesn't drink water for lunch"},
     {"number": 8, "question": "Ele trabalha no escritório?", "answer": "does he work in the office"},
-    {"number": 9, "question": "Ela não gosta de estudar no parque", "answer": "she doesn't like to study in the park"},
-    {"number": 10, "question": "Ele precisa ir para a igreja?", "answer": "does he need to go to church?"}
+    {"number": 9, "question": "Ela não gosta de estudar no parque", "answer": "she doesn't like to study in the park"}
   ],
   "lesson7": [
     {"number": 1, "question": "Eu tenho que ir para a escola hoje", "answer": "i have to go to school today"},
@@ -81,8 +75,7 @@
     {"number": 6, "question": "Por que você prefere ir para o cinema?", "answer": "why do you prefer to go to the movies?"},
     {"number": 7, "question": "Ela prefere trabalhar no banco", "answer": "she prefers to work in the bank"},
     {"number": 8, "question": "Quanto dinheiro você tem?", "answer": "how much money do you have?"},
-    {"number": 9, "question": "Quanto dinheiro ela tem?", "answer": "how much money does she have?"},
-    {"number": 10, "question": "Quantos livros ele tem?", "answer": "how many books does he have?"}
+    {"number": 9, "question": "Quanto dinheiro ela tem?", "answer": "how much money does she have?"}
   ],
   "lesson8": [
     {"number": 1, "question": "Eu acordo as 8 h todos os dias", "answer": "i wake up at 8 am every day"},
@@ -93,8 +86,7 @@
     {"number": 6, "question": "Ela tem um emprego novo", "answer": "she has a new job"},
     {"number": 7, "question": "Eles trabalham cedo todos os dias?", "answer": "do they work early every day?"},
     {"number": 8, "question": "Nós precisamos ir para a escola cedo", "answer": "we need to go to school early"},
-    {"number": 9, "question": "Ele tem um carro pequeno?", "answer": "does he have a small car?"},
-    {"number": 10, "question": "Você prefere acordar cedo ou tarde?", "answer": "do you prefer to wake up early or late?"}
+    {"number": 9, "question": "Ele tem um carro pequeno?", "answer": "does he have a small car?"}
   ],
   "lesson9": [
     {"number": 1, "question": "Eu quero comprar um livro novo", "answer": "i want to buy a new book"},
@@ -105,8 +97,7 @@
     {"number": 6, "question": "O avião decola as 16 h", "answer": "the plane takes off at 4 pm"},
     {"number": 7, "question": "Eles precisam vender a bolsa de mão hoje", "answer": "they need to sell the handbag today"},
     {"number": 8, "question": "Meu irmão quer comprar um carregador novo", "answer": "my brother wants to buy a new charger"},
-    {"number": 9, "question": "Eu não quero comprar uma xícara de café", "answer": "i don't want to buy a cup of coffee"},
-    {"number": 10, "question": "Ele não quer vender o carro", "answer": "he doesn't want to sell the car"}
+    {"number": 9, "question": "Eu não quero comprar uma xícara de café", "answer": "i don't want to buy a cup of coffee"}
   ],
   "lesson10": [
     {"number": 1, "question": "Ele caça animais todos os dias", "answer": "he hunts animals every day"},
@@ -117,8 +108,7 @@
     {"number": 6, "question": "Ele trabalha com o pai dele no escritório", "answer": "he works with his father in the office"},
     {"number": 7, "question": "Nós precisamos levar nosso filho para a escola", "answer": "we need to take our son to school"},
     {"number": 8, "question": "Eu quero ler o livro dela", "answer": "i want to read her book"},
-    {"number": 9, "question": "Elas querem estudar com a prima delas", "answer": "they want to study with their cousin"},
-    {"number": 10, "question": "Ela precisa vender o carro dela", "answer": "she needs to sell her car"}
+    {"number": 9, "question": "Elas querem estudar com a prima delas", "answer": "they want to study with their cousin"}
   ],
   "lesson11": [
     {"number": 1, "question": "Por que ele está triste?", "answer": "why is he sad?"},
@@ -129,8 +119,7 @@
     {"number": 6, "question": "Eu estou com sede porque eu não tenho água", "answer": "I'm thirsty because i don't have water"},
     {"number": 7, "question": "Onde você está?", "answer": "where are you?"},
     {"number": 8, "question": "Ela está no banco com a mãe dela", "answer": "she is in the bank with her mother"},
-    {"number": 9, "question": "Nós estamos no parque com nosso cachorro", "answer": "we are in the park with our dog"},
-    {"number": 10, "question": "Ele não está na cozinha", "answer": "he isn't in the kitchen"}
+    {"number": 9, "question": "Nós estamos no parque com nosso cachorro", "answer": "we are in the park with our dog"}
   ],
   "lesson12": [
     {"number": 1, "question": "Ela caminha com a irmã dela de manhã", "answer": "she walks with her sister in the morning"},
@@ -141,8 +130,7 @@
     {"number": 6, "question": "Nós não queremos ir para a festa", "answer": "we don't want to go to the party"},
     {"number": 7, "question": "Elas estão atrás do shopping", "answer": "they are behind the mall"},
     {"number": 8, "question": "O livro está em cima da mesa", "answer": "the book is over the table"},
-    {"number": 9, "question": "Os livros estão embaixo da mesa", "answer": "the books are under the table"},
-    {"number": 10, "question": "Ela precisa comprar um sofá novo", "answer": "she needs to buy a new couch"}
+    {"number": 9, "question": "Os livros estão embaixo da mesa", "answer": "the books are under the table"}
   ],
   "lesson13": [
     {"number": 1, "question": "Eu quero saber sobre isso", "answer": "i want to know about this"},
@@ -153,8 +141,7 @@
     {"number": 6, "question": "Ela quer ir para o restaurante de novo", "answer": "she wants to go to the restaurant again"},
     {"number": 7, "question": "Eu sei tocar piano muito bem", "answer": "i know how to play the piano very well"},
     {"number": 8, "question": "Ela fala inglês muito bem", "answer": "she speak english very well"},
-    {"number": 9, "question": "Nós moramos longe do escritório", "answer": "we live far from the office"},
-    {"number": 10, "question": "Eu geralmente estudo de manhã ", "answer": "i usually study in the morning"}
+    {"number": 9, "question": "Nós moramos longe do escritório", "answer": "we live far from the office"}
   ],
   "lesson14": [
     {"number": 1, "question": "Nós sempre pensamos sobre os animais", "answer": "we always think about the animals"},
@@ -165,8 +152,7 @@
     {"number": 6, "question": "Ela falta aula quando ela está doente", "answer": "she skips class when she is sick"},
     {"number": 7, "question": "Você prefere fazer o teste de tarde?", "answer": "do you prefer to take the test in the afternoon?"},
     {"number": 8, "question": "Nós já sabemos ler", "answer": "we already know how to read"},
-    {"number": 9, "question": "Minha irmã não gosta de biologia", "answer": "my sister doesn't like biology"},
-    {"number": 10, "question": "O diretor está bravo comigo", "answer": "the principal is angry with me"}
+    {"number": 9, "question": "Minha irmã não gosta de biologia", "answer": "my sister doesn't like biology"}
   ],
   "lesson15": [
     {"number": 1, "question": "Eu posso comprar um carro novo", "answer": "i can buy a new car"},
@@ -177,8 +163,7 @@
     {"number": 6, "question": "Ele trabalha enquanto eles dormem", "answer": "he works while they sleep"},
     {"number": 7, "question": "Eu não posso machucar a perna de novo", "answer": "i can't hurt the leg again"},
     {"number": 8, "question": "Ela não consegue vender o carro dela", "answer": "she can't sell her car"},
-    {"number": 9, "question": "Eu posso ir para o cinema com você", "answer": "i can go to the movies with you"},
-    {"number": 10, "question": "Ela é minha melhor amiga", "answer": "she is my best friend"}
+    {"number": 9, "question": "Eu posso ir para o cinema com você", "answer": "i can go to the movies with you"}
   ],
   "lesson16": [
     {"number": 1, "question": "Eu gostaria de estudar com você", "answer": "i would like to study with you"},
@@ -189,8 +174,7 @@
     {"number": 6, "question": "Nós não gostaríamos de estudar hoje", "answer": "we wouldn't like to study today"},
     {"number": 7, "question": "Ela gostaria de estudar inglês?", "answer": "she would like to study english"},
     {"number": 8, "question": "Ela almoça com os pais dela no sábados", "answer": "she has lunch with her parents on saturdays"},
-    {"number": 9, "question": "Nós gostamos de jantar com nosso filho", "answer": "we like to have dinner with our son"},
-    {"number": 10, "question": "Ela gostaria de acordar tarde amanhã", "answer": "she would like to wake up late tomorrow"}
+    {"number": 9, "question": "Nós gostamos de jantar com nosso filho", "answer": "we like to have dinner with our son"}
   ],
 
   "lesson17": [
@@ -202,8 +186,7 @@
     {"number": 6, "question": "", "answer": ""},
     {"number": 7, "question": "", "answer": ""},
     {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 9, "question": "", "answer": ""}
   ],
   "lesson18": [
     {"number": 1, "question": "", "answer": ""},
@@ -214,8 +197,7 @@
     {"number": 6, "question": "", "answer": ""},
     {"number": 7, "question": "", "answer": ""},
     {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 9, "question": "", "answer": ""}
   ],
   "lesson19": [
     {"number": 1, "question": "", "answer": ""},
@@ -226,8 +208,7 @@
     {"number": 6, "question": "", "answer": ""},
     {"number": 7, "question": "", "answer": ""},
     {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 9, "question": "", "answer": ""}
   ],
   "lesson20": [
     {"number": 1, "question": "", "answer": ""},
@@ -238,8 +219,7 @@
     {"number": 6, "question": "", "answer": ""},
     {"number": 7, "question": "", "answer": ""},
     {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""},
-    {"number": 10, "question": "", "answer": ""}
+    {"number": 9, "question": "", "answer": ""}
   ]
   
   }}

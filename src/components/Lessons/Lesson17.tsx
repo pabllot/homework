@@ -5,13 +5,13 @@ import data from '../data.json'
 //@ts-ignore
 import GetBack from "../Back/GetBack"
 
-const Lesson13 = () => {
+const Lesson17 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
       return (
         <div className="QuestionContainer">
           <GetBack />
-          {data.lessons.lesson13.map((item) =>  ( 
+          {data.lessons.lesson17.map((item) =>  ( 
           <div className="box" key={item.number}>
             <h4>{item.question}</h4>
             <div>
@@ -25,4 +25,4 @@ const Lesson13 = () => {
       )
     }
     
-export default Lesson13
+export default Lesson17

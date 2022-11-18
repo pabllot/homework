@@ -3,7 +3,7 @@ import { useState } from "react"
 import Button from "../Button/ButtonBox"
 import data from '../data.json'
 //@ts-ignore
-import GetBack from "../getBack/GetBack"
+import GetBack from "../Back/GetBack"
 const Lesson5 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
@@ -14,7 +14,6 @@ const Lesson5 = () => {
           <div className="box" key={item.number}>
             <h4>{item.question}</h4>
             <div>
-
             <input onChange={(e) => setAnswerSubmited(e.target.value)} />
             <Button answerSubmited={answerSubmited} answer={item.answer} number={item.number}  />
             </div>

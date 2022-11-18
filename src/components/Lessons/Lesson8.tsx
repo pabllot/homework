@@ -3,7 +3,7 @@ import { useState } from "react"
 import Button from "../Button/ButtonBox"
 import data from '../data.json'
 //@ts-ignore
-import GetBack from "../getBack/GetBack"
+import GetBack from "../Back/GetBack"
 
 const Lesson8 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')

@@ -14,6 +14,11 @@ import Lesson13 from "../Lessons/Lesson13"
 import Lesson14 from "../Lessons/Lesson14"
 import Lesson15 from "../Lessons/Lesson15"
 import Lesson16 from "../Lessons/lesson16"
+import Lesson17 from "../Lessons/lesson17"
+import Lesson18 from "../Lessons/lesson18"
+import Lesson19 from "../Lessons/lesson19"
+import Lesson20 from "../Lessons/lesson20"
+
 
 
 export {
@@ -32,5 +37,9 @@ export {
     Lesson13,
     Lesson14,
     Lesson15,
-    Lesson16
+    Lesson16,
+    Lesson17,
+    Lesson18,
+    Lesson19,
+    Lesson20
 }
