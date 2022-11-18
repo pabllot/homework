@@ -1,16 +1,17 @@
 import { useState } from "react"
 //@ts-ignore
-import Button from "../../Button/ButtonBox"
-import data from '../../data.json'
+import Button from "../Button/ButtonBox"
+import data from '../data.json'
 //@ts-ignore
-import GetBack from "../../getBack/GetBack"
-const Lesson5 = () => {
+import GetBack from "../getBack/GetBack"
+
+const Lesson14 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')
 
       return (
         <div className="QuestionContainer">
           <GetBack />
-          {data.lessons.lesson5.map((item) =>  ( 
+          {data.lessons.lesson14.map((item) =>  ( 
           <div className="box" key={item.number}>
             <h4>{item.question}</h4>
             <div>
@@ -24,4 +25,4 @@ const Lesson5 = () => {
       )
     }
     
-export default Lesson5
+export default Lesson14

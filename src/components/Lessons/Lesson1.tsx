@@ -1,8 +1,8 @@
 import { useState } from "react"
-import Button from "../../Button/ButtonBox"
-import data from '../../data.json'
+import Button from "../Button/ButtonBox"
+import data from '../data.json'
 //@ts-ignore
-import GetBack from "../../getBack/GetBack"
+import GetBack from "../getBack/GetBack"
 
 const Lesson1 = () => {
     const [answerSubmited, setAnswerSubmited] = useState('')

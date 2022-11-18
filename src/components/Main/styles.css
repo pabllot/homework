@@ -26,4 +26,19 @@ section {
     justify-content: center;
 }
 
+@media only screen and (min-width: 600px) {
+    .mainWrapper {
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 100vh;
+    }
+
+    p {
+        width: 5rem;
+        height: 10rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  }
 
