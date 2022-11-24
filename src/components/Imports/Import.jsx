@@ -14,10 +14,10 @@ import Lesson13 from "../Lessons/Lesson13"
 import Lesson14 from "../Lessons/Lesson14"
 import Lesson15 from "../Lessons/Lesson15"
 import Lesson16 from "../Lessons/lesson16"
-import Lesson17 from "../Lessons/lesson17"
-import Lesson18 from "../Lessons/lesson18"
-import Lesson19 from "../Lessons/lesson19"
-import Lesson20 from "../Lessons/lesson20"
+import Lesson17 from "../Lessons/Lesson17"
+import Lesson18 from "../Lessons/Lesson18"
+import Lesson19 from "../Lessons/Lesson19"
+import Lesson20 from "../Lessons/Lesson20"
 
 
 
