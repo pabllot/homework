@@ -65,7 +65,7 @@ const Main = () => {
         </Link>
         <Link to='/lesson20 ' style={{ textDecoration: 'none' }}>
             <p>Lesson 20</p>
-        </Link>
+        </Link> 
     </div>
   )
 }
