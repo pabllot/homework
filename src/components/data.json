@@ -178,15 +178,15 @@
   ],
 
   "lesson17": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""}
+    {"number": 1, "question": "Ela deveria estudar mais de manhã", "answer": "she should study more in the morning"},
+    {"number": 2, "question": "Nós deveríamos vender o nossa passagem", "answer": "we should sell our ticket"},
+    {"number": 3, "question": "Ele não deveria beber cerveja no almoço", "answer": "he shouldn't drink beer for lunch"},
+    {"number": 4, "question": "Ela  deixa o celular dela atrás da mesa", "answer": "she leaves her cell phone behind the table"},
+    {"number": 5, "question": "Elas deveria ir para o escritório com ele", "answer": "they should go to the office with him"},
+    {"number": 6, "question": "Eu gosto de correr com eles", "answer": "i like to run with them"},
+    {"number": 7, "question": "Ela não pode estudar com nós", "answer": "she can't study with us"},
+    {"number": 8, "question": "Eu preciso ir ao cinema com ela", "answer": "i need to go to the movies with her"},
+    {"number": 9, "question": "Ela gostaria de morar com ele", "answer": "she would like to live with him"}
   ],
   "lesson18": [
     {"number": 1, "question": "", "answer": ""},
