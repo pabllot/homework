@@ -193,11 +193,11 @@
     {"number": 2, "question": "Você deve perguntar sobre o jogo", "answer": "you must ask about the game"},
     {"number": 3, "question": "Ela deve estar feliz com a entrevista", "answer": "she must be happy with the interview"},
     {"number": 4, "question": "Eles devem estar na parada de ônibus", "answer": "they must be in the bus stop"},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""}
+    {"number": 5, "question": "Esse carro deve ser confortável", "answer": "this car must be comfortable"},
+    {"number": 6, "question": "Ela deve sair da prefeitura agora mesmo", "answer": "she must leave the city hall right now"},
+    {"number": 7, "question": "Eu preciso tomar o remédio amanhã", "answer": "i need to take the medicine tomorrow"},
+    {"number": 8, "question": "Quantos anos você tem?", "answer": "how old are you?"},
+    {"number": 9, "question": "Ele tem 21 anos", "answer": "he is 21 years old"}
   ],
   "lesson19": [
     {"number": 1, "question": "", "answer": ""},
