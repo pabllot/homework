@@ -6,7 +6,7 @@ type Props = {
     answerSubmited?: any;
 }
 
-const Button = ({answer, number, answerSubmited}: Props) => {
+const Button = ({answer,  answerSubmited}: Props) => {
     const [color, setColor] = useState('rgb(0, 0, 0, 0.5)')
     const [btn, setBtn] = useState('confirm')
 
