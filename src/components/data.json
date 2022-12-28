@@ -200,26 +200,26 @@
     {"number": 9, "question": "Ele tem 21 anos", "answer": "he is 21 years old"}
   ],
   "lesson19": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""}
+    {"number": 1, "question": "Ela está esperando por ele", "answer": "she is waiting for him"},
+    {"number": 2, "question": "Nós estamos assistindo o filme juntos", "answer": "we are watching the movie together"},
+    {"number": 3, "question": "Ele está ajudando o filho dele", "answer": "he is helping his son"},
+    {"number": 4, "question": "Eles estão assistindo série", "answer": "they are watching series"},
+    {"number": 5, "question": "Eu gostaria de almoçar com ela", "answer": "i would like to have lunch with her"},
+    {"number": 6, "question": "Eu já tenho muitos problemas", "answer": "i already have many problems"},
+    {"number": 7, "question": "Ele está ocupado", "answer": "he is busy"},
+    {"number": 8, "question": "Ela gosta de tirar um cochilo de tarde", "answer": "she likes to take a nap in the afternoon"},
+    {"number": 9, "question": "Você precisa conversar com aquele homem?", "answer": "do you need to talk with that man?"}
   ],
   "lesson20": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""}
+    {"number": 1, "question": "Ela não conseguiu comer o sanduíche", "answer": "She couldn't eat the sandwich"},
+    {"number": 2, "question": "Ele conseguiu dirigir o carro novo dele", "answer": "he could drive his new car"},
+    {"number": 3, "question": "Eu poderia estudar italiano com você", "answer": "i could study italian with you"},
+    {"number": 4, "question": "Você consegue ouvir esse barulho?", "answer": "can you hear this noise?"},
+    {"number": 5, "question": "Eles querem comprar o mesmo celular", "answer": "they want to buy the same cell phone"},
+    {"number": 6, "question": "Eu não consigo dormir com esse barulho", "answer": "i can't sleep with this noise"},
+    {"number": 7, "question": "Ela está estudando inglês sozinha", "answer": "she is studying english by herself"},
+    {"number": 8, "question": "Eles estão assistindo o filmes sozinhos", "answer": "they are watching the movie by themselves"},
+    {"number": 9, "question": "Ele quer ler o livro novo sozinho", "answer": "he wants to read the new book by himself"}
   ]
   
   }}
