@@ -16,7 +16,7 @@ const Button = ({answer,  answerSubmited}: Props) => {
         else setColor('red'), setBtn('Wrong')
       } 
   return (
-    <button  style={{backgroundColor: color, color: 'white', fontFamily: 'Poppins', fontWeight: '200', width: '4rem', height:'2rem',  borderRadius: '50px',  outline: 'none', border:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
+    <button  style={{backgroundColor: color, cursor: 'pointer', color: 'white', fontFamily: 'Poppins', fontWeight: '200', width: '4rem', height:'2rem',  borderRadius: '50px',  outline: 'none', border:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
         {btn}
     </button>
   )
