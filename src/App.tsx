@@ -10,7 +10,6 @@ function App() {
     <Routes>
       <Route path='/' element={<Main />}/>
       {mapping.map((item: any) => <Route path={`/lesson${item.id}`} element={item.element}/>)} 
-      <Route path='*' element={<h1>Test</h1>}/>
     </Routes>
     </BrowserRouter>
   )
