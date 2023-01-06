@@ -220,6 +220,17 @@
     {"number": 7, "question": "Ela está estudando inglês sozinha", "answer": "she is studying english by herself"},
     {"number": 8, "question": "Eles estão assistindo o filmes sozinhos", "answer": "they are watching the movie by themselves"},
     {"number": 9, "question": "Ele quer ler o livro novo sozinho", "answer": "he wants to read the new book by himself"}
-  ]
+  ],
+    "lesson21": [
+    {"number": 1, "question": "Eu pensarei sobre isso", "answer": "I will think about it"},
+    {"number": 2, "question": "Ele entenderá espanhol muito bem", "answer": "He will understand spanish very well"},
+    {"number": 3, "question": "Nós iremos para o médico semana que vem", "answer": "We will go to the doctor next week"},
+    {"number": 4, "question": "Ela não morará com o irmão dela", "answer": "She won't live with her brother"},
+    {"number": 5, "question": "Eles não esperarão por você amanhã", "answer": "They won't wait for you tomorrow"},
+    {"number": 6, "question": "Ela caminhará com a filha dela hoje?", "answer": "Will she walk with her daughter today?"},
+    {"number": 7, "question": "Eu gostaria de fazer novos amigos", "answer": "i would like to make new friends"},
+    {"number": 8, "question": "Você sempre faz uma bagunça aqui", "answer": "you always make a mess here"},
+    {"number": 9, "question": "Ela fará um bolo de chocolate?", "answer": "Will she make a chocolate cake?"}
+    ]
   
   }}
