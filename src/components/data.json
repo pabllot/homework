@@ -231,6 +231,28 @@
     {"number": 7, "question": "Eu gostaria de fazer novos amigos", "answer": "i would like to make new friends"},
     {"number": 8, "question": "Você sempre faz uma bagunça aqui", "answer": "you always make a mess here"},
     {"number": 9, "question": "Ela fará um bolo de chocolate?", "answer": "Will she make a chocolate cake?"}
+    ],
+    "lesson22": [
+    {"number": 1, "question": "Eu vou comprar um ceular para minha filha", "answer": "I'm going to buy a cell phone for my daughter"},
+    {"number": 2, "question": "Eles vão vender o carro deles", "answer": "They are going to sell their car"},
+    {"number": 3, "question": "Nós vamos mudar nossas regras", "answer": "we are going to change our rules"},
+    {"number": 4, "question": "Ele não vai dormir aqui hoje", "answer": "he isn't going to sleep here today"},
+    {"number": 5, "question": "Você pode trazer uma caixa vazia?", "answer": "Can you bring an empty box?"},
+    {"number": 6, "question": "Eles vão estudar juntos esse ano", "answer": "They are going to study together this year"},
+    {"number": 7, "question": "Felizmente ela está aqui com nós", "answer": "Fortunately she is here with us"},
+    {"number": 8, "question": "Ele tem certeza que ele vai comprar o carro", "answer": "He is sure that he is going to buy the car"},
+    {"number": 9, "question": "Ela realmente deveria ir para o médico", "answer": "she really should go to the doctor"}
+    ],
+    "mock": [
+    {"number": 1, "question": "", "answer": ""},
+    {"number": 2, "question": "", "answer": ""},
+    {"number": 3, "question": "", "answer": ""},
+    {"number": 4, "question": "", "answer": ""},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""}
     ]
   
   }}
