@@ -243,6 +243,17 @@
     {"number": 8, "question": "Ele tem certeza que ele vai comprar o carro", "answer": "He is sure that he is going to buy the car"},
     {"number": 9, "question": "Ela realmente deveria ir para o médico", "answer": "she really should go to the doctor"}
     ],
+    "lesson23": [
+    {"number": 1, "question": "Há um carro em frente ao parque", "answer": "There is a car in front of the park"},
+    {"number": 2, "question": "Tem três livros novos em cima do sofá", "answer": "There are three new books over the couch "},
+    {"number": 3, "question": "Tem uma jaqueta de couro dentro do armário?", "answer": "is there a leather jacket inside the wardrobe?"},
+    {"number": 4, "question": "Há um cachorro correndo ao redor da casa", "answer": "There is a dog walking around the house"},
+    {"number": 5, "question": "Não tem um bolo de cholocate no escritório", "answer": "There isn't a chocolate cake in the office"},
+    {"number": 6, "question": "Quantas roupas você tem aqui?", "answer": "how many clothes do you have here?"},
+    {"number": 7, "question": "Ele não gosta de vestir aquela camisa verde", "answer": "he doesn't like to wear that green shirt"},
+    {"number": 8, "question": "Ela gostaria de tirar o moletom dela", "answer": "she would like to take off her sweatshirt"},
+    {"number": 9, "question": "Nós deveríamos comprar meias novas", "answer": "we should buy new socks"}
+    ],
     "mock": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},
