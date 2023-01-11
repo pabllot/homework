@@ -254,6 +254,17 @@
     {"number": 8, "question": "Ela gostaria de tirar o moletom dela", "answer": "she would like to take off her sweatshirt"},
     {"number": 9, "question": "Nós deveríamos comprar meias novas", "answer": "we should buy new socks"}
     ],
+    "lesso24": [
+    {"number": 1, "question": "Eu tenho que enviar os documentos para ela", "answer": "I have to send the documents to her"},
+    {"number": 2, "question": "Ela deveria enviar outra mensagem amanhã", "answer": "She should send another message tomorrow"},
+    {"number": 3, "question": "Nós devemos ficar aqui até semana que vem", "answer": "we must stay here until next week"},
+    {"number": 4, "question": "Eles geralmente chegam no escritório de manhã", "answer": "They usually arrive in the office in the morning"},
+    {"number": 5, "question": "", "answer": ""},
+    {"number": 6, "question": "", "answer": ""},
+    {"number": 7, "question": "", "answer": ""},
+    {"number": 8, "question": "", "answer": ""},
+    {"number": 9, "question": "", "answer": ""}
+    ],
     "mock": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},

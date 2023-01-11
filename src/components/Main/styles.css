@@ -19,7 +19,12 @@ p {
     width: 333px;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
+    transition: height 0.1s;
 
+}
+
+p:hover {
+    height: 1.8rem
 }
 
 section {
@@ -47,6 +52,10 @@ section {
         padding: 0 2px;
         margin: 7px;
     }
+
+    p:hover {
+        height: 4.8rem
+    }
 }
 
 
@@ -67,5 +76,8 @@ section {
         font-weight: 200;
         padding: 0 2px;
         margin: 7px;
+    }
+    p:hover {
+        height: 9.8rem
     }
   }
