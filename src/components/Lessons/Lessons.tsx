@@ -463,6 +463,25 @@ return (
 </div>
 )
 }
+export const Lesson24 = () => {
+  const [answerSubmited, setAnswerSubmited] = useState('')
+
+return (
+  <div className="QuestionContainer">
+    <GetBack />
+{data.lessons.lesson24.map((item) =>  ( 
+      <div className="box" key={item.number}>
+        <h4>{item.question}</h4>
+        <div>
+
+        <input onChange={(e) => setAnswerSubmited(e.target.value)} />
+        <Button answerSubmited={answerSubmited} answer={item.answer} number={item.number}  />
+      </div>
+      </div>
+))}        
+</div>
+)
+}
 
 
 
