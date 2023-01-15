@@ -21,7 +21,7 @@
 p {   
     color: rgb(255, 255, 255);
     border-radius: 15px;
-    background-color: rgb(224, 15, 15);
+    background-color: #D2001A;
     width: 5rem;
     height: 7rem;
     display: flex;
@@ -72,7 +72,7 @@ p::after {
 }
 p:hover::after,
 p:hover::before {
-    border-color: rgb(224, 15, 15);;
+    border-color: #D2001A;;
     width: 100%;
     height: 100%;
     background-color: transparent;
