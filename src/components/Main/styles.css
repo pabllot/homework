@@ -1,7 +1,7 @@
 .mainWrapper {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(to bottom, rgb(0, 0, 248), rgb(39, 161, 198));
+    background: #144272;
     display: flex;
     align-items: center;
     justify-content: center;
