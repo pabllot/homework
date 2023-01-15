@@ -13,7 +13,7 @@ const Button = ({answer,  answerSubmited}: Props) => {
     const evaluate = (answer: string, answerSubmited: string) => {
         if (answerSubmited.toLocaleLowerCase() === answer.toLocaleLowerCase())
         setColor('green'), setBtn('Right')
-        else setColor('red'), setBtn('Wrong')
+        else setColor('rgb(198, 22, 22)'), setBtn('Wrong')
       } 
   return (
     <button  style={{backgroundColor: color, cursor: 'pointer', color: 'white', fontFamily: 'Poppins', fontWeight: '200', width: '4rem', height:'2rem',  borderRadius: '50px',  outline: 'none', border:'none'}}  onClick={() => evaluate(answer, answerSubmited)}>
