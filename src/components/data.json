@@ -265,6 +265,17 @@
     {"number": 8, "question": "Com que frequencia você vai ao cinema?", "answer": "How often do you go to the movies?"},
     {"number": 9, "question": "Ao invés de assistir um filme, eu quero ler um livro", "answer": "instead of watching a movie, i want to read a book"}
     ],
+    "lesson25": [
+    {"number": 1, "question": "Eu bebi suco de laranja no café da manhã", "answer": "I drank orange juice for breakfast"},
+    {"number": 2, "question": "Eu também estudei espanhol com ela", "answer": "I also studied spanish with her"},
+    {"number": 3, "question": "Você trabalhou com seu irmão no escritório?", "answer": "Did you work with your brother in the office?"},
+    {"number": 4, "question": "Eu queria estudar inglês essa noite", "answer": "I wanted to study english tonight"},
+    {"number": 5, "question": "O açougueiro está vendendo carne velha", "answer": "the butcher is selling old meat"},
+    {"number": 6, "question": "Hoje em dia eles não são amigos", "answer": "nowadays they aren't friends"},
+    {"number": 7, "question": "Quem comeu o bolo?", "answer": "who ate the cake?"},
+    {"number": 8, "question": "Quem quer ir ao parque comigo?", "answer": "who wants to go to the park with me?"},
+    {"number": 9, "question": "Quem está correndo ao redor da casa?", "answer": "who is running around the house?"}
+    ],
     "mock": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},
