@@ -1,4 +1,4 @@
-import { Lesson1, Lesson2,Lesson3, Lesson4 ,Lesson5, Lesson6,  Lesson7,  Lesson8,  Lesson9,  Lesson10, Lesson11,  Lesson12,  Lesson13,  Lesson14,  Lesson15,  Lesson16,  Lesson17,  Lesson18, Lesson19,  Lesson20, Lesson21, Lesson22, Lesson23 , Lesson24, Lesson25  } from "../Lessons/Lessons"
+import { Lesson1, Lesson2,Lesson3, Lesson4 ,Lesson5, Lesson6,  Lesson7,  Lesson8,  Lesson9,  Lesson10, Lesson11,  Lesson12,  Lesson13,  Lesson14,  Lesson15,  Lesson16,  Lesson17,  Lesson18, Lesson19,  Lesson20, Lesson21, Lesson22, Lesson23 , Lesson24, Lesson25, Lesson26  } from "../Lessons/Lessons"
  
 
 export const mapping = [
@@ -26,7 +26,8 @@ export const mapping = [
     {element : <Lesson22/>, id: 22},
     {element : <Lesson23/>, id: 23},
     {element : <Lesson24/>, id: 24},
-    {element : <Lesson25/>, id: 25}
+    {element : <Lesson25/>, id: 25},
+    {element : <Lesson26/>, id: 26}
 ]
 
 

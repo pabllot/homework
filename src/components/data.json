@@ -276,6 +276,17 @@
     {"number": 8, "question": "Quem quer ir ao parque comigo?", "answer": "who wants to go to the park with me?"},
     {"number": 9, "question": "Quem está correndo ao redor da casa?", "answer": "who is running around the house?"}
     ],
+    "lesson26": [
+    {"number": 1, "question": "Ela caiu em frente a prefeitura", "answer": "she fell in front of the city hall"},
+    {"number": 2, "question": "Eles encontraram a caixa embaixo da mesa", "answer": "they found the box under the table"},
+    {"number": 3, "question": "Ela foi para a escola com o irmão dela ontem", "answer": "She went to school with her brother yesterday"},
+    {"number": 4, "question": "Eu fui para a entrevista de carro", "answer": "I went to the interview by car"},
+    {"number": 5, "question": "Você está interessado em nosso carro?", "answer": "Are you interested in our car?"},
+    {"number": 6, "question": "Você encontrou o celular dela?", "answer": "did you find her cell phone?"},
+    {"number": 7, "question": "Tem um calendário velho em cima da mesa", "answer": "There is an old calendar over the table"},
+    {"number": 8, "question": "O garoto não caiu da árvore", "answer": "the boy didn't fall from the tree"},
+    {"number": 9, "question": "De repente ela quer trabalhar com eles", "answer": "suddenly she wants to work with them"}
+    ],
     "mock": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},
