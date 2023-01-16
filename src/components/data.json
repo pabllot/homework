@@ -287,6 +287,17 @@
     {"number": 8, "question": "O garoto não caiu da árvore", "answer": "the boy didn't fall from the tree"},
     {"number": 9, "question": "De repente ela quer trabalhar com eles", "answer": "suddenly she wants to work with them"}
     ],
+    "lesson27": [
+      {"number": 1, "question": "Eu comprei alguma coisa para você", "answer": "I bought something for you"},
+      {"number": 2, "question": "Eles venderam as passagens deles para ela", "answer": "They sold their tickets to her"},
+      {"number": 3, "question": "Ela jogou video game por três horas", "answer": "She played video game for three hours"},
+      {"number": 4, "question": "Eu escondi o carro embaixo da ponta", "answer": "I hid the car under the bridge"},
+      {"number": 5, "question": "Tem alguma coisa que ela está escondendo", "answer": "There is something that she is hiding"},
+      {"number": 6, "question": "O político escondeu o dinheiro na casa dele", "answer": "The politician hid the money in his house"},
+      {"number": 7, "question": "O presidente manteve o velho discurso dele", "answer": "The president kept his old speech"},
+      {"number": 8, "question": "Para ser honesto eu prefiro ficar e assistir um filme ", "answer": "To be honest I prefer to stay and watch a movie"},
+      {"number": 9, "question": "Ambos vão jogar o jogo", "answer": "Both of them are going to play the game"}
+      ],
     "mock": [
     {"number": 1, "question": "", "answer": ""},
     {"number": 2, "question": "", "answer": ""},
