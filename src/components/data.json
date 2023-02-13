@@ -17,10 +17,10 @@
     {"number": 3, "question": "Eu estudo espanhol com minha irmã", "answer": "i study spanish with my sister"},
     {"number": 4, "question": "Você estuda frances com seu pai?", "answer": "do you study french with your father?"},
     {"number": 5, "question": "Eu gosto de estudar alemão com meu irmão", "answer": "i like to study german with my brother"},
-    {"number": 6, "question": "Eu nao gosto de falar frances com meu avô", "answer": "i eat chicken"},
-    {"number": 7, "question": "Você gosta de estudar com seu irmao de tarde?", "answer": "i eat chicken"},
-    {"number": 8, "question": "Eu nao gosto de falar francês a noite", "answer": "i eat chicken"},
-    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "i eat chicken"}
+    {"number": 6, "question": "Eu nao gosto de falar frances com meu avô", "answer": "I don't like to speak French with my grandfather."},
+    {"number": 7, "question": "Você gosta de estudar com seu irmao de tarde?", "answer": "Do you like to study with your brother in the afternoon?"},
+    {"number": 8, "question": "Eu nao gosto de falar francês a noite", "answer": "I don't like to speak French in the evening."},
+    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "I speak German with my parents in the afternoon."}
   ],
   "lesson3": [
     {"number": 1, "question": "Eu preciso falar com meu filho", "answer": "i need to speak with my son"},
