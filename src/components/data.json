@@ -1,313 +1,1273 @@
 {
-      "lessons" : { 
-        "lesson1": [
-    {"number": 1, "question": "Eu como peixe", "answer": "i eat fish"},
-    {"number": 2, "question": "Você bebe agua", "answer": "you drink water"},
-    {"number": 3, "question": "Eu como frango", "answer": "i eat chicken"},
-    {"number": 4, "question": "Eu como carne bovina no almoço", "answer": "i eat beef for lunch"},
-    {"number": 5, "question": "Eu como pão no café da manhã", "answer": "i eat bread for breakfast"},
-    {"number": 6, "question": "Eu não bebo um copo de água", "answer": "i don't drink a glass of water"},
-    {"number": 7, "question": "Você come peixe no jantar?", "answer": "do you eat fish for dinner?"},
-    {"number": 8, "question": "Eu não bebo uma xícara de café", "answer": "i don't drink a cup of coffee"},
-    {"number": 9, "question": "Você bebe chá no café da manhã?", "answer": "do you drink tea for breakfast?"}
-  ],
-  "lesson2": [
-    {"number": 1, "question": "Eu falo inglês com minha mãe", "answer": "i speak english with my mother"},
-    {"number": 2, "question": "Você fala espanhol com seu primo?", "answer": "do you speak spanish with your cousin?"},
-    {"number": 3, "question": "Eu estudo espanhol com minha irmã", "answer": "i study spanish with my sister"},
-    {"number": 4, "question": "Você estuda frances com seu pai?", "answer": "do you study french with your father?"},
-    {"number": 5, "question": "Eu gosto de estudar alemão com meu irmão", "answer": "i like to study german with my brother"},
-    {"number": 6, "question": "Eu nao gosto de falar frances com meu avô", "answer": "I don't like to speak French with my grandfather"},
-    {"number": 7, "question": "Você gosta de estudar com seu irmao de tarde?", "answer": "Do you like to study with your brother in the afternoon?"},
-    {"number": 8, "question": "Eu nao gosto de falar francês a noite", "answer": "I don't like to speak French in the evening"},
-    {"number": 9, "question": "Eu falo alemão com meus pais de tarde", "answer": "I speak German with my parents in the afternoon"}
-  ],
-  "lesson3": [
-    {"number": 1, "question": "Eu preciso falar com meu filho", "answer": "i need to speak with my son"},
-    {"number": 2, "question": "Você quer estudar com seu sobrinho?", "answer": "do you want to study with your nephew?"},
-    {"number": 3, "question": "Eu quero estudar alemão esse ano", "answer": "i want to study german this year"},
-    {"number": 4, "question": "Eu preciso falar com você semana que vem", "answer": "i need to speak with you next week"},
-    {"number": 5, "question": "Eu quero falar com seu sobrinho amanhã", "answer": "i want to speak with your nephew tomorrow"},
-    {"number": 6, "question": "Eu preciso beber um copo de água agora", "answer": "i need to drink a glass of water now"},
-    {"number": 7, "question": "Você precisa falar com minha filha?", "answer": "do you need to speak with my daughter?"},
-    {"number": 8, "question": "Eu nao quero beber café no café da manhã", "answer": "i don't want to drink coffee for breakfast"},
-    {"number": 9, "question": "Você quer beber um copo de água?", "answer": "do you want to drink a glass of water?"}
-  ],
-  "lesson4": [
-    {"number": 1, "question": "Eles precisam trabalhar no mercado amanhã?", "answer": "do they need to work in the store tomorrow?"},
-    {"number": 2, "question": "Eu gosto de tocar piano no escritório", "answer": "i like to play the piano in the office"},
-    {"number": 3, "question": "Nós gostamos de jogar futebol com seu tio", "answer": "we like to play soccer with your uncle"},
-    {"number": 4, "question": "Eu não quero estudar chinês com meu irmão", "answer": "i don't want to study chinese with my brother"},
-    {"number": 5, "question": "Onde eles querem estudar amanhã?", "answer": "where do they want to study tomorrow?"},
-    {"number": 6, "question": "Elas precisam trabalhar no parque hoje", "answer": "they need to work in the park today"},
-    {"number": 7, "question": "Nós precisamos trabalhar no banco amanhã", "answer": "we need to work in the bank tomorrow"},
-    {"number": 8, "question": "Quando elas querem tocar piano?", "answer": "when do they want to play the piano?"},
-    {"number": 9, "question": "Nós trabalhamos no banco todos os dias", "answer": "we work in th bank every day"}
-  ],
-  "lesson5": [
-    {"number": 1, "question": "Eu vou para o cinema todos os dias", "answer": "i go to the movies every day"},
-    {"number": 2, "question": "Você quer ir para o escritório comigo?", "answer": "do you want to go to the office with me?"},
-    {"number": 3, "question": "Eles vão para o shopping de manhã", "answer": "they go to the mall in the morning"},
-    {"number": 4, "question": "Onde você quer ir amanhã?", "answer": "where do you want to go tomorrow?"},
-    {"number": 5, "question": "Nós precisamos vir para a igreja amanhã", "answer": "we need to come to church tomorrow"},
-    {"number": 6, "question": "Nós precisamos ir ao centro", "answer": "we need to go downtown"},
-    {"number": 7, "question": "Eu não gosto de ir para o escritório", "answer": "i don't like to go to the office"},
-    {"number": 8, "question": "O que você quer comer no shopping?", "answer": "what do you want to eat in the mall?"},
-    {"number": 9, "question": "Eles querem ir para a rodoviaria", "answer": "they want to go to the bus station"}
-  ],
-  "lesson6": [
-    {"number": 1, "question": "Ela quer escrever um livro", "answer": "she wants to write a book"},
-    {"number": 2, "question": "Ele precisa ler o livro agora", "answer": "he needs to read the book now"},
-    {"number": 3, "question": "Ela gosta de escrever de manhã", "answer": "she likes to write in the morning"},
-    {"number": 4, "question": "Ele não quer escrever um livro", "answer": "he doesn't want to write a book"},
-    {"number": 5, "question": "Ela precisa ler o livro agora?", "answer": "does he need to read the book now?"},
-    {"number": 6, "question": "Ela come pão no café da manhã", "answer": "she eats bread for breakfast"},
-    {"number": 7, "question": "Ela não bebe aguá no almoço", "answer": "she doesn't drink water for lunch"},
-    {"number": 8, "question": "Ele trabalha no escritório?", "answer": "does he work in the office"},
-    {"number": 9, "question": "Ela não gosta de estudar no parque", "answer": "she doesn't like to study in the park"}
-  ],
-  "lesson7": [
-    {"number": 1, "question": "Eu tenho que ir para a escola hoje", "answer": "i have to go to school today"},
-    {"number": 2, "question": "Ela tem que trabalhar hoje", "answer": "she has to work today"},
-    {"number": 3, "question": "Eles preferem comer frango no jantar", "answer": "they prefer to eat chicken for dinner"},
-    {"number": 4, "question": "Eu trabalho como um garçom", "answer": "i work as a waiter"},
-    {"number": 5, "question": "Nós ainda gostamos de estudar de manhã", "answer": "we still like to study in the morning"},
-    {"number": 6, "question": "Por que você prefere ir para o cinema?", "answer": "why do you prefer to go to the movies?"},
-    {"number": 7, "question": "Ela prefere trabalhar no banco", "answer": "she prefers to work in the bank"},
-    {"number": 8, "question": "Quanto dinheiro você tem?", "answer": "how much money do you have?"},
-    {"number": 9, "question": "Quanto dinheiro ela tem?", "answer": "how much money does she have?"}
-  ],
-  "lesson8": [
-    {"number": 1, "question": "Eu acordo as 8 h todos os dias", "answer": "i wake up at 8 am every day"},
-    {"number": 2, "question": "Nós precisamos acordar as 6 h amanhã", "answer": "we need to wake up at 6 am tomorrow"},
-    {"number": 3, "question": "Ela não quer dormir aqui hoje", "answer": "she doesn't want to sleep here today"},
-    {"number": 4, "question": "Eu gosto desse tipo de livros", "answer": "i like this kind of books"},
-    {"number": 5, "question": "Elas vão para a cama as 23 h", "answer": "they go to bed at at 11 pm"},
-    {"number": 6, "question": "Ela tem um emprego novo", "answer": "she has a new job"},
-    {"number": 7, "question": "Eles trabalham cedo todos os dias?", "answer": "do they work early every day?"},
-    {"number": 8, "question": "Nós precisamos ir para a escola cedo", "answer": "we need to go to school early"},
-    {"number": 9, "question": "Ele tem um carro pequeno?", "answer": "does he have a small car?"}
-  ],
-  "lesson9": [
-    {"number": 1, "question": "Eu quero comprar um livro novo", "answer": "i want to buy a new book"},
-    {"number": 2, "question": "Nós não queremos comprar um carro agora", "answer": "we don't want to buy a car now "},
-    {"number": 3, "question": "Eles querem vender duas passagens", "answer": "they want to sell two tickets"},
-    {"number": 4, "question": "Ela gosta de ir para o aeroporto?", "answer": "does she like to go to the airport?"},
-    {"number": 5, "question": "Eles precisam ir para a Inglaterra amanhã", "answer": "they need to go to england tomorrow"},
-    {"number": 6, "question": "O avião decola as 16 h", "answer": "the plane takes off at 4 pm"},
-    {"number": 7, "question": "Eles precisam vender a bolsa de mão hoje", "answer": "they need to sell the handbag today"},
-    {"number": 8, "question": "Meu irmão quer comprar um carregador novo", "answer": "my brother wants to buy a new charger"},
-    {"number": 9, "question": "Eu não quero comprar uma xícara de café", "answer": "i don't want to buy a cup of coffee"}
-  ],
-  "lesson10": [
-    {"number": 1, "question": "Ele caça animais todos os dias", "answer": "he hunts animals every day"},
-    {"number": 2, "question": "Nós preferimos alimentar nosso cachorro", "answer": "we prefer to feed ou dog"},
-    {"number": 3, "question": "Ela gosta de brincar com o gato dela", "answer": "she likes to play with her cat"},
-    {"number": 4, "question": "Pássaros gostam de voar à noite", "answer": "birds like to fly at night"},
-    {"number": 5, "question": "Eles jogam futebol com o gerente deles", "answer": "they play soccer with their manager"},
-    {"number": 6, "question": "Ele trabalha com o pai dele no escritório", "answer": "he works with his father in the office"},
-    {"number": 7, "question": "Nós precisamos levar nosso filho para a escola", "answer": "we need to take our son to school"},
-    {"number": 8, "question": "Eu quero ler o livro dela", "answer": "i want to read her book"},
-    {"number": 9, "question": "Elas querem estudar com a prima delas", "answer": "they want to study with their cousin"}
-  ],
-  "lesson11": [
-    {"number": 1, "question": "Por que ele está triste?", "answer": "why is he sad?"},
-    {"number": 2, "question": "Ele está triste porque ele não tem dinheiro", "answer": "he is sad because he doesn't have money"},
-    {"number": 3, "question": "Por que ela está brava?", "answer": "why is she angry?"},
-    {"number": 4, "question": "Ela está brava porque ela não quer ir", "answer": "she is angry because she doesn't want to go"},
-    {"number": 5, "question": "Por que você está com sede?", "answer": "why are you thirsty?"},
-    {"number": 6, "question": "Eu estou com sede porque eu não tenho água", "answer": "I'm thirsty because i don't have water"},
-    {"number": 7, "question": "Onde você está?", "answer": "where are you?"},
-    {"number": 8, "question": "Ela está no banco com a mãe dela", "answer": "she is in the bank with her mother"},
-    {"number": 9, "question": "Nós estamos no parque com nosso cachorro", "answer": "we are in the park with our dog"}
-  ],
-  "lesson12": [
-    {"number": 1, "question": "Ela caminha com a irmã dela de manhã", "answer": "she walks with her sister in the morning"},
-    {"number": 2, "question": "Nós não corremos de tarde", "answer": "we don't run in the afternoon"},
-    {"number": 3, "question": "Ele caminha ao redor do bairro?", "answer": "does he walk around the neighborhood?"},
-    {"number": 4, "question": "Ela está atrás da biblioteca", "answer": "she is behind the library"},
-    {"number": 5, "question": "O carro está em frente ao banco", "answer": "the car is in front of the bank"},
-    {"number": 6, "question": "Nós não queremos ir para a festa", "answer": "we don't want to go to the party"},
-    {"number": 7, "question": "Elas estão atrás do shopping", "answer": "they are behind the mall"},
-    {"number": 8, "question": "O livro está em cima da mesa", "answer": "the book is over the table"},
-    {"number": 9, "question": "Os livros estão embaixo da mesa", "answer": "the books are under the table"}
-  ],
-  "lesson13": [
-    {"number": 1, "question": "Eu quero saber sobre isso", "answer": "i want to know about this"},
-    {"number": 2, "question": "Nós precisamos saber se ele vem", "answer": "we need to know if he comes"},
-    {"number": 3, "question": "Meu primo não mora aqui", "answer": "my cousin doesn't live here"},
-    {"number": 4, "question": "Ele sabe a verdade?", "answer": "does he know the truth?"},
-    {"number": 5, "question": "Meus parentes moram perto da praia", "answer": "my relatives live near the beach"},
-    {"number": 6, "question": "Ela quer ir para o restaurante de novo", "answer": "she wants to go to the restaurant again"},
-    {"number": 7, "question": "Eu sei tocar piano muito bem", "answer": "i know how to play the piano very well"},
-    {"number": 8, "question": "Ela fala inglês muito bem", "answer": "she speaks english very well"},
-    {"number": 9, "question": "Nós moramos longe do escritório", "answer": "we live far from the office"}
-  ],
-  "lesson14": [
-    {"number": 1, "question": "Nós sempre pensamos sobre os animais", "answer": "we always think about the animals"},
-    {"number": 2, "question": "Ele geralmente não entende o pai dele", "answer": "he usually doesn't understand his father"},
-    {"number": 3, "question": "Ela não gosta de conversar de manhã", "answer": "she doesn't like to talk in the morning"},
-    {"number": 4, "question": "Nós precisamos estudar geografia", "answer": "we need to study geography"},
-    {"number": 5, "question": "Eles precisam estudar com os colegas deles", "answer": "they need to study with their classmates"},
-    {"number": 6, "question": "Ela falta aula quando ela está doente", "answer": "she skips class when she is sick"},
-    {"number": 7, "question": "Você prefere fazer o teste de tarde?", "answer": "do you prefer to take the test in the afternoon?"},
-    {"number": 8, "question": "Nós já sabemos ler", "answer": "we already know how to read"},
-    {"number": 9, "question": "Minha irmã não gosta de biologia", "answer": "my sister doesn't like biology"}
-  ],
-  "lesson15": [
-    {"number": 1, "question": "Eu posso comprar um carro novo", "answer": "i can buy a new car"},
-    {"number": 2, "question": "Você não pode comer aqui", "answer": "you can't eat here"},
-    {"number": 3, "question": "Você consegue vender o carro dela?", "answer": "can you sell her car?"},
-    {"number": 4, "question": "Ela não consegue dormir no parque", "answer": "she can't sleep in the park"},
-    {"number": 5, "question": "Eu trabalho enquanto ela estuda", "answer": "i work while she studies"},
-    {"number": 6, "question": "Ele trabalha enquanto eles dormem", "answer": "he works while they sleep"},
-    {"number": 7, "question": "Eu não posso machucar a perna de novo", "answer": "i can't hurt the leg again"},
-    {"number": 8, "question": "Ela não consegue vender o carro dela", "answer": "she can't sell her car"},
-    {"number": 9, "question": "Eu posso ir para o cinema com você", "answer": "i can go to the movies with you"}
-  ],
-  "lesson16": [
-    {"number": 1, "question": "Eu gostaria de estudar com você", "answer": "i would like to study with you"},
-    {"number": 2, "question": "Ela gostaria de jogar vôlei amanhã", "answer": "she would like to play volleyball tomorrow"},
-    {"number": 3, "question": "Você gostaria de ir para o banco?", "answer": "would you like to go to the bank?"},
-    {"number": 4, "question": "Eu trabalho nessa empresa desde janeiro ", "answer": "i work in this company since january"},
-    {"number": 5, "question": "Ela quer vender a casa dela em setembro", "answer": "she wants to sell her house in september"},
-    {"number": 6, "question": "Nós não gostaríamos de estudar hoje", "answer": "we wouldn't like to study today"},
-    {"number": 7, "question": "Ela gostaria de estudar inglês?", "answer": "she would like to study english"},
-    {"number": 8, "question": "Ela almoça com os pais dela no sábados", "answer": "she has lunch with her parents on saturdays"},
-    {"number": 9, "question": "Nós gostamos de jantar com nosso filho", "answer": "we like to have dinner with our son"}
-  ],
+  "lessons": {
+    "lesson1": [
+      { "number": 1, "question": "Eu como peixe", "answer": "i eat fish" },
+      {
+        "number": 2,
+        "question": "Você bebe agua",
+        "answer": "you drink water"
+      },
+      { "number": 3, "question": "Eu como frango", "answer": "i eat chicken" },
+      {
+        "number": 4,
+        "question": "Eu como carne bovina no almoço",
+        "answer": "i eat beef for lunch"
+      },
+      {
+        "number": 5,
+        "question": "Eu como pão no café da manhã",
+        "answer": "i eat bread for breakfast"
+      },
+      {
+        "number": 6,
+        "question": "Eu não bebo um copo de água",
+        "answer": "i don't drink a glass of water"
+      },
+      {
+        "number": 7,
+        "question": "Você come peixe no jantar?",
+        "answer": "do you eat fish for dinner?"
+      },
+      {
+        "number": 8,
+        "question": "Eu não bebo uma xícara de café",
+        "answer": "i don't drink a cup of coffee"
+      },
+      {
+        "number": 9,
+        "question": "Você bebe chá no café da manhã?",
+        "answer": "do you drink tea for breakfast?"
+      }
+    ],
+    "lesson2": [
+      {
+        "number": 1,
+        "question": "Eu falo inglês com minha mãe",
+        "answer": "i speak english with my mother"
+      },
+      {
+        "number": 2,
+        "question": "Você fala espanhol com seu primo?",
+        "answer": "do you speak spanish with your cousin?"
+      },
+      {
+        "number": 3,
+        "question": "Eu estudo espanhol com minha irmã",
+        "answer": "i study spanish with my sister"
+      },
+      {
+        "number": 4,
+        "question": "Você estuda frances com seu pai?",
+        "answer": "do you study french with your father?"
+      },
+      {
+        "number": 5,
+        "question": "Eu gosto de estudar alemão com meu irmão",
+        "answer": "i like to study german with my brother"
+      },
+      {
+        "number": 6,
+        "question": "Eu nao gosto de falar frances com meu avô",
+        "answer": "I don't like to speak French with my grandfather"
+      },
+      {
+        "number": 7,
+        "question": "Você gosta de estudar com seu irmao de tarde?",
+        "answer": "Do you like to study with your brother in the afternoon?"
+      },
+      {
+        "number": 8,
+        "question": "Eu nao gosto de falar francês a noite",
+        "answer": "I don't like to speak French in the evening"
+      },
+      {
+        "number": 9,
+        "question": "Eu falo alemão com meus pais de tarde",
+        "answer": "I speak German with my parents in the afternoon"
+      }
+    ],
+    "lesson3": [
+      {
+        "number": 1,
+        "question": "Eu preciso falar com meu filho",
+        "answer": "i need to speak with my son"
+      },
+      {
+        "number": 2,
+        "question": "Você quer estudar com seu sobrinho?",
+        "answer": "do you want to study with your nephew?"
+      },
+      {
+        "number": 3,
+        "question": "Eu quero estudar alemão esse ano",
+        "answer": "i want to study german this year"
+      },
+      {
+        "number": 4,
+        "question": "Eu preciso falar com você semana que vem",
+        "answer": "i need to speak with you next week"
+      },
+      {
+        "number": 5,
+        "question": "Eu quero falar com seu sobrinho amanhã",
+        "answer": "i want to speak with your nephew tomorrow"
+      },
+      {
+        "number": 6,
+        "question": "Eu preciso beber um copo de água agora",
+        "answer": "i need to drink a glass of water now"
+      },
+      {
+        "number": 7,
+        "question": "Você precisa falar com minha filha?",
+        "answer": "do you need to speak with my daughter?"
+      },
+      {
+        "number": 8,
+        "question": "Eu nao quero beber café no café da manhã",
+        "answer": "i don't want to drink coffee for breakfast"
+      },
+      {
+        "number": 9,
+        "question": "Você quer beber um copo de água?",
+        "answer": "do you want to drink a glass of water?"
+      }
+    ],
+    "lesson4": [
+      {
+        "number": 1,
+        "question": "Eles precisam trabalhar no mercado amanhã?",
+        "answer": "do they need to work in the store tomorrow?"
+      },
+      {
+        "number": 2,
+        "question": "Eu gosto de tocar piano no escritório",
+        "answer": "i like to play the piano in the office"
+      },
+      {
+        "number": 3,
+        "question": "Nós gostamos de jogar futebol com seu tio",
+        "answer": "we like to play soccer with your uncle"
+      },
+      {
+        "number": 4,
+        "question": "Eu não quero estudar chinês com meu irmão",
+        "answer": "i don't want to study chinese with my brother"
+      },
+      {
+        "number": 5,
+        "question": "Onde eles querem estudar amanhã?",
+        "answer": "where do they want to study tomorrow?"
+      },
+      {
+        "number": 6,
+        "question": "Elas precisam trabalhar no parque hoje",
+        "answer": "they need to work in the park today"
+      },
+      {
+        "number": 7,
+        "question": "Nós precisamos trabalhar no banco amanhã",
+        "answer": "we need to work in the bank tomorrow"
+      },
+      {
+        "number": 8,
+        "question": "Quando elas querem tocar piano?",
+        "answer": "when do they want to play the piano?"
+      },
+      {
+        "number": 9,
+        "question": "Nós trabalhamos no banco todos os dias",
+        "answer": "we work in the bank every day"
+      }
+    ],
+    "lesson5": [
+      {
+        "number": 1,
+        "question": "Eu vou para o cinema todos os dias",
+        "answer": "i go to the movies every day"
+      },
+      {
+        "number": 2,
+        "question": "Você quer ir para o escritório comigo?",
+        "answer": "do you want to go to the office with me?"
+      },
+      {
+        "number": 3,
+        "question": "Eles vão para o shopping de manhã",
+        "answer": "they go to the mall in the morning"
+      },
+      {
+        "number": 4,
+        "question": "Onde você quer ir amanhã?",
+        "answer": "where do you want to go tomorrow?"
+      },
+      {
+        "number": 5,
+        "question": "Nós precisamos vir para a igreja amanhã",
+        "answer": "we need to come to church tomorrow"
+      },
+      {
+        "number": 6,
+        "question": "Nós precisamos ir ao centro",
+        "answer": "we need to go downtown"
+      },
+      {
+        "number": 7,
+        "question": "Eu não gosto de ir para o escritório",
+        "answer": "i don't like to go to the office"
+      },
+      {
+        "number": 8,
+        "question": "O que você quer comer no shopping?",
+        "answer": "what do you want to eat in the mall?"
+      },
+      {
+        "number": 9,
+        "question": "Eles querem ir para a rodoviaria",
+        "answer": "they want to go to the bus station"
+      }
+    ],
+    "lesson6": [
+      {
+        "number": 1,
+        "question": "Ela quer escrever um livro",
+        "answer": "she wants to write a book"
+      },
+      {
+        "number": 2,
+        "question": "Ele precisa ler o livro agora",
+        "answer": "he needs to read the book now"
+      },
+      {
+        "number": 3,
+        "question": "Ela gosta de escrever de manhã",
+        "answer": "she likes to write in the morning"
+      },
+      {
+        "number": 4,
+        "question": "Ele não quer escrever um livro",
+        "answer": "he doesn't want to write a book"
+      },
+      {
+        "number": 5,
+        "question": "Ela precisa ler o livro agora?",
+        "answer": "does he need to read the book now?"
+      },
+      {
+        "number": 6,
+        "question": "Ela come pão no café da manhã",
+        "answer": "she eats bread for breakfast"
+      },
+      {
+        "number": 7,
+        "question": "Ela não bebe aguá no almoço",
+        "answer": "she doesn't drink water for lunch"
+      },
+      {
+        "number": 8,
+        "question": "Ele trabalha no escritório?",
+        "answer": "does he work in the office"
+      },
+      {
+        "number": 9,
+        "question": "Ela não gosta de estudar no parque",
+        "answer": "she doesn't like to study in the park"
+      }
+    ],
+    "lesson7": [
+      {
+        "number": 1,
+        "question": "Eu tenho que ir para a escola hoje",
+        "answer": "i have to go to school today"
+      },
+      {
+        "number": 2,
+        "question": "Ela tem que trabalhar hoje",
+        "answer": "she has to work today"
+      },
+      {
+        "number": 3,
+        "question": "Eles preferem comer frango no jantar",
+        "answer": "they prefer to eat chicken for dinner"
+      },
+      {
+        "number": 4,
+        "question": "Eu trabalho como um garçom",
+        "answer": "i work as a waiter"
+      },
+      {
+        "number": 5,
+        "question": "Nós ainda gostamos de estudar de manhã",
+        "answer": "we still like to study in the morning"
+      },
+      {
+        "number": 6,
+        "question": "Por que você prefere ir para o cinema?",
+        "answer": "why do you prefer to go to the movies?"
+      },
+      {
+        "number": 7,
+        "question": "Ela prefere trabalhar no banco",
+        "answer": "she prefers to work in the bank"
+      },
+      {
+        "number": 8,
+        "question": "Quanto dinheiro você tem?",
+        "answer": "how much money do you have?"
+      },
+      {
+        "number": 9,
+        "question": "Quanto dinheiro ela tem?",
+        "answer": "how much money does she have?"
+      }
+    ],
+    "lesson8": [
+      {
+        "number": 1,
+        "question": "Eu acordo as 8 h todos os dias",
+        "answer": "i wake up at 8 am every day"
+      },
+      {
+        "number": 2,
+        "question": "Nós precisamos acordar as 6 h amanhã",
+        "answer": "we need to wake up at 6 am tomorrow"
+      },
+      {
+        "number": 3,
+        "question": "Ela não quer dormir aqui hoje",
+        "answer": "she doesn't want to sleep here today"
+      },
+      {
+        "number": 4,
+        "question": "Eu gosto desse tipo de livros",
+        "answer": "i like this kind of books"
+      },
+      {
+        "number": 5,
+        "question": "Elas vão para a cama as 23 h",
+        "answer": "they go to bed at at 11 pm"
+      },
+      {
+        "number": 6,
+        "question": "Ela tem um emprego novo",
+        "answer": "she has a new job"
+      },
+      {
+        "number": 7,
+        "question": "Eles trabalham cedo todos os dias?",
+        "answer": "do they work early every day?"
+      },
+      {
+        "number": 8,
+        "question": "Nós precisamos ir para a escola cedo",
+        "answer": "we need to go to school early"
+      },
+      {
+        "number": 9,
+        "question": "Ele tem um carro pequeno?",
+        "answer": "does he have a small car?"
+      }
+    ],
+    "lesson9": [
+      {
+        "number": 1,
+        "question": "Eu quero comprar um livro novo",
+        "answer": "i want to buy a new book"
+      },
+      {
+        "number": 2,
+        "question": "Nós não queremos comprar um carro agora",
+        "answer": "we don't want to buy a car now "
+      },
+      {
+        "number": 3,
+        "question": "Eles querem vender duas passagens",
+        "answer": "they want to sell two tickets"
+      },
+      {
+        "number": 4,
+        "question": "Ela gosta de ir para o aeroporto?",
+        "answer": "does she like to go to the airport?"
+      },
+      {
+        "number": 5,
+        "question": "Eles precisam ir para a Inglaterra amanhã",
+        "answer": "they need to go to england tomorrow"
+      },
+      {
+        "number": 6,
+        "question": "O avião decola as 16 h",
+        "answer": "the plane takes off at 4 pm"
+      },
+      {
+        "number": 7,
+        "question": "Eles precisam vender a bolsa de mão hoje",
+        "answer": "they need to sell the handbag today"
+      },
+      {
+        "number": 8,
+        "question": "Meu irmão quer comprar um carregador novo",
+        "answer": "my brother wants to buy a new charger"
+      },
+      {
+        "number": 9,
+        "question": "Eu não quero comprar uma xícara de café",
+        "answer": "i don't want to buy a cup of coffee"
+      }
+    ],
+    "lesson10": [
+      {
+        "number": 1,
+        "question": "Ele caça animais todos os dias",
+        "answer": "he hunts animals every day"
+      },
+      {
+        "number": 2,
+        "question": "Nós preferimos alimentar nosso cachorro",
+        "answer": "we prefer to feed ou dog"
+      },
+      {
+        "number": 3,
+        "question": "Ela gosta de brincar com o gato dela",
+        "answer": "she likes to play with her cat"
+      },
+      {
+        "number": 4,
+        "question": "Pássaros gostam de voar à noite",
+        "answer": "birds like to fly at night"
+      },
+      {
+        "number": 5,
+        "question": "Eles jogam futebol com o gerente deles",
+        "answer": "they play soccer with their manager"
+      },
+      {
+        "number": 6,
+        "question": "Ele trabalha com o pai dele no escritório",
+        "answer": "he works with his father in the office"
+      },
+      {
+        "number": 7,
+        "question": "Nós precisamos levar nosso filho para a escola",
+        "answer": "we need to take our son to school"
+      },
+      {
+        "number": 8,
+        "question": "Eu quero ler o livro dela",
+        "answer": "i want to read her book"
+      },
+      {
+        "number": 9,
+        "question": "Elas querem estudar com a prima delas",
+        "answer": "they want to study with their cousin"
+      }
+    ],
+    "lesson11": [
+      {
+        "number": 1,
+        "question": "Por que ele está triste?",
+        "answer": "why is he sad?"
+      },
+      {
+        "number": 2,
+        "question": "Ele está triste porque ele não tem dinheiro",
+        "answer": "he is sad because he doesn't have money"
+      },
+      {
+        "number": 3,
+        "question": "Por que ela está brava?",
+        "answer": "why is she angry?"
+      },
+      {
+        "number": 4,
+        "question": "Ela está brava porque ela não quer ir",
+        "answer": "she is angry because she doesn't want to go"
+      },
+      {
+        "number": 5,
+        "question": "Por que você está com sede?",
+        "answer": "why are you thirsty?"
+      },
+      {
+        "number": 6,
+        "question": "Eu estou com sede porque eu não tenho água",
+        "answer": "I'm thirsty because i don't have water"
+      },
+      {
+        "number": 7,
+        "question": "Onde você está?",
+        "answer": "where are you?"
+      },
+      {
+        "number": 8,
+        "question": "Ela está no banco com a mãe dela",
+        "answer": "she is in the bank with her mother"
+      },
+      {
+        "number": 9,
+        "question": "Nós estamos no parque com nosso cachorro",
+        "answer": "we are in the park with our dog"
+      }
+    ],
+    "lesson12": [
+      {
+        "number": 1,
+        "question": "Ela caminha com a irmã dela de manhã",
+        "answer": "she walks with her sister in the morning"
+      },
+      {
+        "number": 2,
+        "question": "Nós não corremos de tarde",
+        "answer": "we don't run in the afternoon"
+      },
+      {
+        "number": 3,
+        "question": "Ele caminha ao redor do bairro?",
+        "answer": "does he walk around the neighborhood?"
+      },
+      {
+        "number": 4,
+        "question": "Ela está atrás da biblioteca",
+        "answer": "she is behind the library"
+      },
+      {
+        "number": 5,
+        "question": "O carro está em frente ao banco",
+        "answer": "the car is in front of the bank"
+      },
+      {
+        "number": 6,
+        "question": "Nós não queremos ir para a festa",
+        "answer": "we don't want to go to the party"
+      },
+      {
+        "number": 7,
+        "question": "Elas estão atrás do shopping",
+        "answer": "they are behind the mall"
+      },
+      {
+        "number": 8,
+        "question": "O livro está em cima da mesa",
+        "answer": "the book is over the table"
+      },
+      {
+        "number": 9,
+        "question": "Os livros estão embaixo da mesa",
+        "answer": "the books are under the table"
+      }
+    ],
+    "lesson13": [
+      {
+        "number": 1,
+        "question": "Eu quero saber sobre isso",
+        "answer": "i want to know about this"
+      },
+      {
+        "number": 2,
+        "question": "Nós precisamos saber se ele vem",
+        "answer": "we need to know if he comes"
+      },
+      {
+        "number": 3,
+        "question": "Meu primo não mora aqui",
+        "answer": "my cousin doesn't live here"
+      },
+      {
+        "number": 4,
+        "question": "Ele sabe a verdade?",
+        "answer": "does he know the truth?"
+      },
+      {
+        "number": 5,
+        "question": "Meus parentes moram perto da praia",
+        "answer": "my relatives live near the beach"
+      },
+      {
+        "number": 6,
+        "question": "Ela quer ir para o restaurante de novo",
+        "answer": "she wants to go to the restaurant again"
+      },
+      {
+        "number": 7,
+        "question": "Eu sei tocar piano muito bem",
+        "answer": "i know how to play the piano very well"
+      },
+      {
+        "number": 8,
+        "question": "Ela fala inglês muito bem",
+        "answer": "she speaks english very well"
+      },
+      {
+        "number": 9,
+        "question": "Nós moramos longe do escritório",
+        "answer": "we live far from the office"
+      }
+    ],
+    "lesson14": [
+      {
+        "number": 1,
+        "question": "Nós sempre pensamos sobre os animais",
+        "answer": "we always think about the animals"
+      },
+      {
+        "number": 2,
+        "question": "Ele geralmente não entende o pai dele",
+        "answer": "he usually doesn't understand his father"
+      },
+      {
+        "number": 3,
+        "question": "Ela não gosta de conversar de manhã",
+        "answer": "she doesn't like to talk in the morning"
+      },
+      {
+        "number": 4,
+        "question": "Nós precisamos estudar geografia",
+        "answer": "we need to study geography"
+      },
+      {
+        "number": 5,
+        "question": "Eles precisam estudar com os colegas deles",
+        "answer": "they need to study with their classmates"
+      },
+      {
+        "number": 6,
+        "question": "Ela falta aula quando ela está doente",
+        "answer": "she skips class when she is sick"
+      },
+      {
+        "number": 7,
+        "question": "Você prefere fazer o teste de tarde?",
+        "answer": "do you prefer to take the test in the afternoon?"
+      },
+      {
+        "number": 8,
+        "question": "Nós já sabemos ler",
+        "answer": "we already know how to read"
+      },
+      {
+        "number": 9,
+        "question": "Minha irmã não gosta de biologia",
+        "answer": "my sister doesn't like biology"
+      }
+    ],
+    "lesson15": [
+      {
+        "number": 1,
+        "question": "Eu posso comprar um carro novo",
+        "answer": "i can buy a new car"
+      },
+      {
+        "number": 2,
+        "question": "Você não pode comer aqui",
+        "answer": "you can't eat here"
+      },
+      {
+        "number": 3,
+        "question": "Você consegue vender o carro dela?",
+        "answer": "can you sell her car?"
+      },
+      {
+        "number": 4,
+        "question": "Ela não consegue dormir no parque",
+        "answer": "she can't sleep in the park"
+      },
+      {
+        "number": 5,
+        "question": "Eu trabalho enquanto ela estuda",
+        "answer": "i work while she studies"
+      },
+      {
+        "number": 6,
+        "question": "Ele trabalha enquanto eles dormem",
+        "answer": "he works while they sleep"
+      },
+      {
+        "number": 7,
+        "question": "Eu não posso machucar a perna de novo",
+        "answer": "i can't hurt the leg again"
+      },
+      {
+        "number": 8,
+        "question": "Ela não consegue vender o carro dela",
+        "answer": "she can't sell her car"
+      },
+      {
+        "number": 9,
+        "question": "Eu posso ir para o cinema com você",
+        "answer": "i can go to the movies with you"
+      }
+    ],
+    "lesson16": [
+      {
+        "number": 1,
+        "question": "Eu gostaria de estudar com você",
+        "answer": "i would like to study with you"
+      },
+      {
+        "number": 2,
+        "question": "Ela gostaria de jogar vôlei amanhã",
+        "answer": "she would like to play volleyball tomorrow"
+      },
+      {
+        "number": 3,
+        "question": "Você gostaria de ir para o banco?",
+        "answer": "would you like to go to the bank?"
+      },
+      {
+        "number": 4,
+        "question": "Eu trabalho nessa empresa desde janeiro ",
+        "answer": "i work in this company since january"
+      },
+      {
+        "number": 5,
+        "question": "Ela quer vender a casa dela em setembro",
+        "answer": "she wants to sell her house in september"
+      },
+      {
+        "number": 6,
+        "question": "Nós não gostaríamos de estudar hoje",
+        "answer": "we wouldn't like to study today"
+      },
+      {
+        "number": 7,
+        "question": "Ela gostaria de estudar inglês?",
+        "answer": "she would like to study english"
+      },
+      {
+        "number": 8,
+        "question": "Ela almoça com os pais dela no sábados",
+        "answer": "she has lunch with her parents on saturdays"
+      },
+      {
+        "number": 9,
+        "question": "Nós gostamos de jantar com nosso filho",
+        "answer": "we like to have dinner with our son"
+      }
+    ],
 
-  "lesson17": [
-    {"number": 1, "question": "Ela deveria estudar mais de manhã", "answer": "she should study more in the morning"},
-    {"number": 2, "question": "Nós deveríamos vender o nossa passagem", "answer": "we should sell our ticket"},
-    {"number": 3, "question": "Ele não deveria beber cerveja no almoço", "answer": "he shouldn't drink beer for lunch"},
-    {"number": 4, "question": "Ela  deixa o celular dela atrás da mesa", "answer": "she leaves her cell phone behind the table"},
-    {"number": 5, "question": "Elas deveria ir para o escritório com ele", "answer": "they should go to the office with him"},
-    {"number": 6, "question": "Eu gosto de correr com eles", "answer": "i like to run with them"},
-    {"number": 7, "question": "Ela não pode estudar com nós", "answer": "she can't study with us"},
-    {"number": 8, "question": "Eu preciso ir ao cinema com ela", "answer": "i need to go to the movies with her"},
-    {"number": 9, "question": "Ela gostaria de morar com ele", "answer": "she would like to live with him"}
-  ],
-  "lesson18": [
-    {"number": 1, "question": "Ele deve trabalhar aqui até abril", "answer": "he must work here until april"},
-    {"number": 2, "question": "Você deve perguntar sobre o jogo", "answer": "you must ask about the game"},
-    {"number": 3, "question": "Ela deve estar feliz com a entrevista", "answer": "she must be happy with the interview"},
-    {"number": 4, "question": "Eles devem estar na parada de ônibus", "answer": "they must be in the bus stop"},
-    {"number": 5, "question": "Esse carro deve ser confortável", "answer": "this car must be comfortable"},
-    {"number": 6, "question": "Ela deve sair da prefeitura agora mesmo", "answer": "she must leave the city hall right now"},
-    {"number": 7, "question": "Eu preciso tomar o remédio amanhã", "answer": "i need to take the medicine tomorrow"},
-    {"number": 8, "question": "Quantos anos você tem?", "answer": "how old are you?"},
-    {"number": 9, "question": "Ele tem 21 anos", "answer": "he is 21 years old"}
-  ],
-  "lesson19": [
-    {"number": 1, "question": "Ela está esperando por ele", "answer": "she is waiting for him"},
-    {"number": 2, "question": "Nós estamos assistindo o filme juntos", "answer": "we are watching the movie together"},
-    {"number": 3, "question": "Ele está ajudando o filho dele", "answer": "he is helping his son"},
-    {"number": 4, "question": "Eles estão assistindo série", "answer": "they are watching series"},
-    {"number": 5, "question": "Eu gostaria de almoçar com ela", "answer": "i would like to have lunch with her"},
-    {"number": 6, "question": "Eu já tenho muitos problemas", "answer": "i already have many problems"},
-    {"number": 7, "question": "Ele está ocupado", "answer": "he is busy"},
-    {"number": 8, "question": "Ela gosta de tirar um cochilo de tarde", "answer": "she likes to take a nap in the afternoon"},
-    {"number": 9, "question": "Você precisa conversar com aquele homem?", "answer": "do you need to talk with that man?"}
-  ],
-  "lesson20": [
-    {"number": 1, "question": "Ela não conseguiu comer o sanduíche", "answer": "She couldn't eat the sandwich"},
-    {"number": 2, "question": "Ele conseguiu dirigir o carro novo dele", "answer": "he could drive his new car"},
-    {"number": 3, "question": "Eu poderia estudar italiano com você", "answer": "i could study italian with you"},
-    {"number": 4, "question": "Você consegue ouvir esse barulho?", "answer": "can you hear this noise?"},
-    {"number": 5, "question": "Eles querem comprar o mesmo celular", "answer": "they want to buy the same cell phone"},
-    {"number": 6, "question": "Eu não consigo dormir com esse barulho", "answer": "i can't sleep with this noise"},
-    {"number": 7, "question": "Ela está estudando inglês sozinha", "answer": "she is studying english by herself"},
-    {"number": 8, "question": "Eles estão assistindo o filmes sozinhos", "answer": "they are watching the movie by themselves"},
-    {"number": 9, "question": "Ele quer ler o livro novo sozinho", "answer": "he wants to read the new book by himself"}
-  ],
+    "lesson17": [
+      {
+        "number": 1,
+        "question": "Ela deveria estudar mais de manhã",
+        "answer": "she should study more in the morning"
+      },
+      {
+        "number": 2,
+        "question": "Nós deveríamos vender o nossa passagem",
+        "answer": "we should sell our ticket"
+      },
+      {
+        "number": 3,
+        "question": "Ele não deveria beber cerveja no almoço",
+        "answer": "he shouldn't drink beer for lunch"
+      },
+      {
+        "number": 4,
+        "question": "Ela  deixa o celular dela atrás da mesa",
+        "answer": "she leaves her cell phone behind the table"
+      },
+      {
+        "number": 5,
+        "question": "Elas deveria ir para o escritório com ele",
+        "answer": "they should go to the office with him"
+      },
+      {
+        "number": 6,
+        "question": "Eu gosto de correr com eles",
+        "answer": "i like to run with them"
+      },
+      {
+        "number": 7,
+        "question": "Ela não pode estudar com nós",
+        "answer": "she can't study with us"
+      },
+      {
+        "number": 8,
+        "question": "Eu preciso ir ao cinema com ela",
+        "answer": "i need to go to the movies with her"
+      },
+      {
+        "number": 9,
+        "question": "Ela gostaria de morar com ele",
+        "answer": "she would like to live with him"
+      }
+    ],
+    "lesson18": [
+      {
+        "number": 1,
+        "question": "Ele deve trabalhar aqui até abril",
+        "answer": "he must work here until april"
+      },
+      {
+        "number": 2,
+        "question": "Você deve perguntar sobre o jogo",
+        "answer": "you must ask about the game"
+      },
+      {
+        "number": 3,
+        "question": "Ela deve estar feliz com a entrevista",
+        "answer": "she must be happy with the interview"
+      },
+      {
+        "number": 4,
+        "question": "Eles devem estar na parada de ônibus",
+        "answer": "they must be in the bus stop"
+      },
+      {
+        "number": 5,
+        "question": "Esse carro deve ser confortável",
+        "answer": "this car must be comfortable"
+      },
+      {
+        "number": 6,
+        "question": "Ela deve sair da prefeitura agora mesmo",
+        "answer": "she must leave the city hall right now"
+      },
+      {
+        "number": 7,
+        "question": "Eu preciso tomar o remédio amanhã",
+        "answer": "i need to take the medicine tomorrow"
+      },
+      {
+        "number": 8,
+        "question": "Quantos anos você tem?",
+        "answer": "how old are you?"
+      },
+      {
+        "number": 9,
+        "question": "Ele tem 21 anos",
+        "answer": "he is 21 years old"
+      }
+    ],
+    "lesson19": [
+      {
+        "number": 1,
+        "question": "Ela está esperando por ele",
+        "answer": "she is waiting for him"
+      },
+      {
+        "number": 2,
+        "question": "Nós estamos assistindo o filme juntos",
+        "answer": "we are watching the movie together"
+      },
+      {
+        "number": 3,
+        "question": "Ele está ajudando o filho dele",
+        "answer": "he is helping his son"
+      },
+      {
+        "number": 4,
+        "question": "Eles estão assistindo série",
+        "answer": "they are watching series"
+      },
+      {
+        "number": 5,
+        "question": "Eu gostaria de almoçar com ela",
+        "answer": "i would like to have lunch with her"
+      },
+      {
+        "number": 6,
+        "question": "Eu já tenho muitos problemas",
+        "answer": "i already have many problems"
+      },
+      { "number": 7, "question": "Ele está ocupado", "answer": "he is busy" },
+      {
+        "number": 8,
+        "question": "Ela gosta de tirar um cochilo de tarde",
+        "answer": "she likes to take a nap in the afternoon"
+      },
+      {
+        "number": 9,
+        "question": "Você precisa conversar com aquele homem?",
+        "answer": "do you need to talk with that man?"
+      }
+    ],
+    "lesson20": [
+      {
+        "number": 1,
+        "question": "Ela não conseguiu comer o sanduíche",
+        "answer": "She couldn't eat the sandwich"
+      },
+      {
+        "number": 2,
+        "question": "Ele conseguiu dirigir o carro novo dele",
+        "answer": "he could drive his new car"
+      },
+      {
+        "number": 3,
+        "question": "Eu poderia estudar italiano com você",
+        "answer": "i could study italian with you"
+      },
+      {
+        "number": 4,
+        "question": "Você consegue ouvir esse barulho?",
+        "answer": "can you hear this noise?"
+      },
+      {
+        "number": 5,
+        "question": "Eles querem comprar o mesmo celular",
+        "answer": "they want to buy the same cell phone"
+      },
+      {
+        "number": 6,
+        "question": "Eu não consigo dormir com esse barulho",
+        "answer": "i can't sleep with this noise"
+      },
+      {
+        "number": 7,
+        "question": "Ela está estudando inglês sozinha",
+        "answer": "she is studying english by herself"
+      },
+      {
+        "number": 8,
+        "question": "Eles estão assistindo o filmes sozinhos",
+        "answer": "they are watching the movie by themselves"
+      },
+      {
+        "number": 9,
+        "question": "Ele quer ler o livro novo sozinho",
+        "answer": "he wants to read the new book by himself"
+      }
+    ],
     "lesson21": [
-    {"number": 1, "question": "Eu pensarei sobre isso", "answer": "I will think about it"},
-    {"number": 2, "question": "Ele entenderá espanhol muito bem", "answer": "He will understand spanish very well"},
-    {"number": 3, "question": "Nós iremos para o médico semana que vem", "answer": "We will go to the doctor next week"},
-    {"number": 4, "question": "Ela não morará com o irmão dela", "answer": "She won't live with her brother"},
-    {"number": 5, "question": "Eles não esperarão por você amanhã", "answer": "They won't wait for you tomorrow"},
-    {"number": 6, "question": "Ela caminhará com a filha dela hoje?", "answer": "Will she walk with her daughter today?"},
-    {"number": 7, "question": "Eu gostaria de fazer novos amigos", "answer": "i would like to make new friends"},
-    {"number": 8, "question": "Você sempre faz uma bagunça aqui", "answer": "you always make a mess here"},
-    {"number": 9, "question": "Ela fará um bolo de chocolate?", "answer": "Will she make a chocolate cake?"}
+      {
+        "number": 1,
+        "question": "Eu pensarei sobre isso",
+        "answer": "I will think about it"
+      },
+      {
+        "number": 2,
+        "question": "Ele entenderá espanhol muito bem",
+        "answer": "He will understand spanish very well"
+      },
+      {
+        "number": 3,
+        "question": "Nós iremos para o médico semana que vem",
+        "answer": "We will go to the doctor next week"
+      },
+      {
+        "number": 4,
+        "question": "Ela não morará com o irmão dela",
+        "answer": "She won't live with her brother"
+      },
+      {
+        "number": 5,
+        "question": "Eles não esperarão por você amanhã",
+        "answer": "They won't wait for you tomorrow"
+      },
+      {
+        "number": 6,
+        "question": "Ela caminhará com a filha dela hoje?",
+        "answer": "Will she walk with her daughter today?"
+      },
+      {
+        "number": 7,
+        "question": "Eu gostaria de fazer novos amigos",
+        "answer": "i would like to make new friends"
+      },
+      {
+        "number": 8,
+        "question": "Você sempre faz uma bagunça aqui",
+        "answer": "you always make a mess here"
+      },
+      {
+        "number": 9,
+        "question": "Ela fará um bolo de chocolate?",
+        "answer": "Will she make a chocolate cake?"
+      }
     ],
     "lesson22": [
-    {"number": 1, "question": "Eu vou comprar um ceular para minha filha", "answer": "I'm going to buy a cell phone for my daughter"},
-    {"number": 2, "question": "Eles vão vender o carro deles", "answer": "They are going to sell their car"},
-    {"number": 3, "question": "Nós vamos mudar nossas regras", "answer": "we are going to change our rules"},
-    {"number": 4, "question": "Ele não vai dormir aqui hoje", "answer": "he isn't going to sleep here today"},
-    {"number": 5, "question": "Você pode trazer uma caixa vazia?", "answer": "Can you bring an empty box?"},
-    {"number": 6, "question": "Eles vão estudar juntos esse ano", "answer": "They are going to study together this year"},
-    {"number": 7, "question": "Felizmente ela está aqui com nós", "answer": "Fortunately she is here with us"},
-    {"number": 8, "question": "Ele tem certeza que ele vai comprar o carro", "answer": "He is sure that he is going to buy the car"},
-    {"number": 9, "question": "Ela realmente deveria ir para o médico", "answer": "she really should go to the doctor"}
+      {
+        "number": 1,
+        "question": "Eu vou comprar um ceular para minha filha",
+        "answer": "I'm going to buy a cell phone for my daughter"
+      },
+      {
+        "number": 2,
+        "question": "Eles vão vender o carro deles",
+        "answer": "They are going to sell their car"
+      },
+      {
+        "number": 3,
+        "question": "Nós vamos mudar nossas regras",
+        "answer": "we are going to change our rules"
+      },
+      {
+        "number": 4,
+        "question": "Ele não vai dormir aqui hoje",
+        "answer": "he isn't going to sleep here today"
+      },
+      {
+        "number": 5,
+        "question": "Você pode trazer uma caixa vazia?",
+        "answer": "Can you bring an empty box?"
+      },
+      {
+        "number": 6,
+        "question": "Eles vão estudar juntos esse ano",
+        "answer": "They are going to study together this year"
+      },
+      {
+        "number": 7,
+        "question": "Felizmente ela está aqui com nós",
+        "answer": "Fortunately she is here with us"
+      },
+      {
+        "number": 8,
+        "question": "Ele tem certeza que ele vai comprar o carro",
+        "answer": "He is sure that he is going to buy the car"
+      },
+      {
+        "number": 9,
+        "question": "Ela realmente deveria ir para o médico",
+        "answer": "she really should go to the doctor"
+      }
     ],
     "lesson23": [
-    {"number": 1, "question": "Há um carro em frente ao parque", "answer": "There is a car in front of the park"},
-    {"number": 2, "question": "Tem três livros novos em cima do sofá", "answer": "There are three new books over the couch "},
-    {"number": 3, "question": "Tem uma jaqueta de couro dentro do armário?", "answer": "is there a leather jacket inside the wardrobe?"},
-    {"number": 4, "question": "Há um cachorro correndo ao redor da casa", "answer": "There is a dog walking around the house"},
-    {"number": 5, "question": "Não tem um bolo de cholocate no escritório", "answer": "There isn't a chocolate cake in the office"},
-    {"number": 6, "question": "Quantas roupas você tem aqui?", "answer": "how many clothes do you have here?"},
-    {"number": 7, "question": "Ele não gosta de vestir aquela camisa verde", "answer": "he doesn't like to wear that green shirt"},
-    {"number": 8, "question": "Ela gostaria de tirar o moletom dela", "answer": "she would like to take off her sweatshirt"},
-    {"number": 9, "question": "Nós deveríamos comprar meias novas", "answer": "we should buy new socks"}
+      {
+        "number": 1,
+        "question": "Há um carro em frente ao parque",
+        "answer": "There is a car in front of the park"
+      },
+      {
+        "number": 2,
+        "question": "Tem três livros novos em cima do sofá",
+        "answer": "There are three new books over the couch "
+      },
+      {
+        "number": 3,
+        "question": "Tem uma jaqueta de couro dentro do armário?",
+        "answer": "is there a leather jacket inside the wardrobe?"
+      },
+      {
+        "number": 4,
+        "question": "Há um cachorro correndo ao redor da casa",
+        "answer": "There is a dog walking around the house"
+      },
+      {
+        "number": 5,
+        "question": "Não tem um bolo de cholocate no escritório",
+        "answer": "There isn't a chocolate cake in the office"
+      },
+      {
+        "number": 6,
+        "question": "Quantas roupas você tem aqui?",
+        "answer": "how many clothes do you have here?"
+      },
+      {
+        "number": 7,
+        "question": "Ele não gosta de vestir aquela camisa verde",
+        "answer": "he doesn't like to wear that green shirt"
+      },
+      {
+        "number": 8,
+        "question": "Ela gostaria de tirar o moletom dela",
+        "answer": "she would like to take off her sweatshirt"
+      },
+      {
+        "number": 9,
+        "question": "Nós deveríamos comprar meias novas",
+        "answer": "we should buy new socks"
+      }
     ],
     "lesson24": [
-    {"number": 1, "question": "Eu tenho que enviar os documentos para ela", "answer": "I have to send the documents to her"},
-    {"number": 2, "question": "Ela deveria enviar outra mensagem amanhã", "answer": "She should send another message tomorrow"},
-    {"number": 3, "question": "Nós devemos ficar aqui até semana que vem", "answer": "we must stay here until next week"},
-    {"number": 4, "question": "Eles geralmente chegam no escritório de manhã", "answer": "They usually arrive in the office in the morning"},
-    {"number": 5, "question": "Eu vou chegar cedo na festa ", "answer": "I'm going to arrive early in the party"},
-    {"number": 6, "question": "Há um gato no telhado", "answer": "There is a cat on the roof"},
-    {"number": 7, "question": "Tem sete livros na prateleira", "answer": "there are seven books on the shelf"},
-    {"number": 8, "question": "Com que frequencia você vai ao cinema?", "answer": "How often do you go to the movies?"},
-    {"number": 9, "question": "Ao invés de assistir um filme, eu quero ler um livro", "answer": "instead of watching a movie, i want to read a book"}
+      {
+        "number": 1,
+        "question": "Eu tenho que enviar os documentos para ela",
+        "answer": "I have to send the documents to her"
+      },
+      {
+        "number": 2,
+        "question": "Ela deveria enviar outra mensagem amanhã",
+        "answer": "She should send another message tomorrow"
+      },
+      {
+        "number": 3,
+        "question": "Nós devemos ficar aqui até semana que vem",
+        "answer": "we must stay here until next week"
+      },
+      {
+        "number": 4,
+        "question": "Eles geralmente chegam no escritório de manhã",
+        "answer": "They usually arrive in the office in the morning"
+      },
+      {
+        "number": 5,
+        "question": "Eu vou chegar cedo na festa ",
+        "answer": "I'm going to arrive early in the party"
+      },
+      {
+        "number": 6,
+        "question": "Há um gato no telhado",
+        "answer": "There is a cat on the roof"
+      },
+      {
+        "number": 7,
+        "question": "Tem sete livros na prateleira",
+        "answer": "there are seven books on the shelf"
+      },
+      {
+        "number": 8,
+        "question": "Com que frequencia você vai ao cinema?",
+        "answer": "How often do you go to the movies?"
+      },
+      {
+        "number": 9,
+        "question": "Ao invés de assistir um filme, eu quero ler um livro",
+        "answer": "instead of watching a movie, i want to read a book"
+      }
     ],
     "lesson25": [
-    {"number": 1, "question": "Eu bebi suco de laranja no café da manhã", "answer": "I drank orange juice for breakfast"},
-    {"number": 2, "question": "Eu também estudei espanhol com ela", "answer": "I also studied spanish with her"},
-    {"number": 3, "question": "Você trabalhou com seu irmão no escritório?", "answer": "Did you work with your brother in the office?"},
-    {"number": 4, "question": "Eu queria estudar inglês essa noite", "answer": "I wanted to study english tonight"},
-    {"number": 5, "question": "O açougueiro está vendendo carne velha", "answer": "the butcher is selling old meat"},
-    {"number": 6, "question": "Hoje em dia eles não são amigos", "answer": "nowadays they aren't friends"},
-    {"number": 7, "question": "Quem comeu o bolo?", "answer": "who ate the cake?"},
-    {"number": 8, "question": "Quem quer ir ao parque comigo?", "answer": "who wants to go to the park with me?"},
-    {"number": 9, "question": "Quem está correndo ao redor da casa?", "answer": "who is running around the house?"}
+      {
+        "number": 1,
+        "question": "Eu bebi suco de laranja no café da manhã",
+        "answer": "I drank orange juice for breakfast"
+      },
+      {
+        "number": 2,
+        "question": "Eu também estudei espanhol com ela",
+        "answer": "I also studied spanish with her"
+      },
+      {
+        "number": 3,
+        "question": "Você trabalhou com seu irmão no escritório?",
+        "answer": "Did you work with your brother in the office?"
+      },
+      {
+        "number": 4,
+        "question": "Eu queria estudar inglês essa noite",
+        "answer": "I wanted to study english tonight"
+      },
+      {
+        "number": 5,
+        "question": "O açougueiro está vendendo carne velha",
+        "answer": "the butcher is selling old meat"
+      },
+      {
+        "number": 6,
+        "question": "Hoje em dia eles não são amigos",
+        "answer": "nowadays they aren't friends"
+      },
+      {
+        "number": 7,
+        "question": "Quem comeu o bolo?",
+        "answer": "who ate the cake?"
+      },
+      {
+        "number": 8,
+        "question": "Quem quer ir ao parque comigo?",
+        "answer": "who wants to go to the park with me?"
+      },
+      {
+        "number": 9,
+        "question": "Quem está correndo ao redor da casa?",
+        "answer": "who is running around the house?"
+      }
     ],
     "lesson26": [
-    {"number": 1, "question": "Ela caiu em frente a prefeitura", "answer": "she fell in front of the city hall"},
-    {"number": 2, "question": "Eles encontraram a caixa embaixo da mesa", "answer": "they found the box under the table"},
-    {"number": 3, "question": "Ela foi para a escola com o irmão dela ontem", "answer": "She went to school with her brother yesterday"},
-    {"number": 4, "question": "Eu fui para a entrevista de carro", "answer": "I went to the interview by car"},
-    {"number": 5, "question": "Você está interessado em nosso carro?", "answer": "Are you interested in our car?"},
-    {"number": 6, "question": "Você encontrou o celular dela?", "answer": "did you find her cell phone?"},
-    {"number": 7, "question": "Tem um calendário velho em cima da mesa", "answer": "There is an old calendar over the table"},
-    {"number": 8, "question": "O garoto não caiu da árvore", "answer": "the boy didn't fall from the tree"},
-    {"number": 9, "question": "De repente ela quer trabalhar com eles", "answer": "suddenly she wants to work with them"}
+      {
+        "number": 1,
+        "question": "Ela caiu em frente a prefeitura",
+        "answer": "she fell in front of the city hall"
+      },
+      {
+        "number": 2,
+        "question": "Eles encontraram a caixa embaixo da mesa",
+        "answer": "they found the box under the table"
+      },
+      {
+        "number": 3,
+        "question": "Ela foi para a escola com o irmão dela ontem",
+        "answer": "She went to school with her brother yesterday"
+      },
+      {
+        "number": 4,
+        "question": "Eu fui para a entrevista de carro",
+        "answer": "I went to the interview by car"
+      },
+      {
+        "number": 5,
+        "question": "Você está interessado em nosso carro?",
+        "answer": "Are you interested in our car?"
+      },
+      {
+        "number": 6,
+        "question": "Você encontrou o celular dela?",
+        "answer": "did you find her cell phone?"
+      },
+      {
+        "number": 7,
+        "question": "Tem um calendário velho em cima da mesa",
+        "answer": "There is an old calendar over the table"
+      },
+      {
+        "number": 8,
+        "question": "O garoto não caiu da árvore",
+        "answer": "the boy didn't fall from the tree"
+      },
+      {
+        "number": 9,
+        "question": "De repente ela quer trabalhar com eles",
+        "answer": "suddenly she wants to work with them"
+      }
     ],
     "lesson27": [
-      {"number": 1, "question": "Eu comprei alguma coisa para você", "answer": "I bought something for you"},
-      {"number": 2, "question": "Eles venderam as passagens deles para ela", "answer": "They sold their tickets to her"},
-      {"number": 3, "question": "Ela jogou video game por três horas", "answer": "She played video game for three hours"},
-      {"number": 4, "question": "Eu escondi o carro embaixo da ponta", "answer": "I hid the car under the bridge"},
-      {"number": 5, "question": "Tem alguma coisa que ela está escondendo", "answer": "There is something that she is hiding"},
-      {"number": 6, "question": "O político escondeu o dinheiro na casa dele", "answer": "The politician hid the money in his house"},
-      {"number": 7, "question": "O presidente manteve o velho discurso dele", "answer": "The president kept his old speech"},
-      {"number": 8, "question": "Para ser honesto eu prefiro ficar e assistir um filme ", "answer": "To be honest I prefer to stay and watch a movie"},
-      {"number": 9, "question": "Ambos vão jogar o jogo", "answer": "Both of them are going to play the game"}
-      ],
+      {
+        "number": 1,
+        "question": "Eu comprei alguma coisa para você",
+        "answer": "I bought something for you"
+      },
+      {
+        "number": 2,
+        "question": "Eles venderam as passagens deles para ela",
+        "answer": "They sold their tickets to her"
+      },
+      {
+        "number": 3,
+        "question": "Ela jogou video game por três horas",
+        "answer": "She played video game for three hours"
+      },
+      {
+        "number": 4,
+        "question": "Eu escondi o carro embaixo da ponta",
+        "answer": "I hid the car under the bridge"
+      },
+      {
+        "number": 5,
+        "question": "Tem alguma coisa que ela está escondendo",
+        "answer": "There is something that she is hiding"
+      },
+      {
+        "number": 6,
+        "question": "O político escondeu o dinheiro na casa dele",
+        "answer": "The politician hid the money in his house"
+      },
+      {
+        "number": 7,
+        "question": "O presidente manteve o velho discurso dele",
+        "answer": "The president kept his old speech"
+      },
+      {
+        "number": 8,
+        "question": "Para ser honesto eu prefiro ficar e assistir um filme ",
+        "answer": "To be honest I prefer to stay and watch a movie"
+      },
+      {
+        "number": 9,
+        "question": "Ambos vão jogar o jogo",
+        "answer": "Both of them are going to play the game"
+      }
+    ],
     "mock": [
-    {"number": 1, "question": "", "answer": ""},
-    {"number": 2, "question": "", "answer": ""},
-    {"number": 3, "question": "", "answer": ""},
-    {"number": 4, "question": "", "answer": ""},
-    {"number": 5, "question": "", "answer": ""},
-    {"number": 6, "question": "", "answer": ""},
-    {"number": 7, "question": "", "answer": ""},
-    {"number": 8, "question": "", "answer": ""},
-    {"number": 9, "question": "", "answer": ""}
+      { "number": 1, "question": "", "answer": "" },
+      { "number": 2, "question": "", "answer": "" },
+      { "number": 3, "question": "", "answer": "" },
+      { "number": 4, "question": "", "answer": "" },
+      { "number": 5, "question": "", "answer": "" },
+      { "number": 6, "question": "", "answer": "" },
+      { "number": 7, "question": "", "answer": "" },
+      { "number": 8, "question": "", "answer": "" },
+      { "number": 9, "question": "", "answer": "" }
     ]
-  
-  }}
+  }
+}
