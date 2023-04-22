@@ -1,69 +1,69 @@
 body {
-    height: 100vh;
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    background:  #144272;
+  height: 100vh;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background: #144272;
 }
 
 .QuestionContainer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    background: #0A2647;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background: #0a2647;
+  position: relative;
 }
 
 .box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
-    width: 20rem;
-    height: 5rem;
-    padding: 5px 0;
-    background-color: #144272;
-    border-radius: 25px;
-    margin: 0.5rem 0;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 20rem;
+  height: 5rem;
+  padding: 5px 0;
+  background-color: #144272;
+  border-radius: 25px;
+  margin: 0.5rem 0;
+  -webkit-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
+  box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
 }
 
 h4 {
-    color: white;
-    font-family: 'Poppins', sans-serif;
-    margin-bottom: 0.5rem;
-    font-size: 12px;
-    font-weight: 400;
-
+  color: white;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 0.5rem;
+  font-size: 12px;
+  font-weight: 400;
 }
 
 input {
-    font-family: 'Poppins', sans-serif;
-    border: none;
-	margin-bottom: 15px;
-    margin-right: 5px;
-	border-radius: 50px;
-    outline: none;
-    height: 1.5rem;
-    padding: 5px;
-    max-width: 9rem;
+  font-family: "Poppins", sans-serif;
+  border: none;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  border-radius: 50px;
+  outline: none;
+  height: 1.5rem;
+  padding: 5px;
+  max-width: 9rem;
 }
 
 @media only screen and (min-width: 600px) {
-    .QuestionContainer {
-        flex-direction: row;
-        flex-wrap: wrap;
-        min-height: 100vh;
-        width: 100%;
-    }
+  .QuestionContainer {
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    width: 100%;
+  }
 
-    .box {
-        width: 24rem;
-        height: 8rem;
-        border-radius: 10px;
-        margin: 2rem;
-
-    }
-    }
+  .box {
+    width: 24rem;
+    height: 8rem;
+    border-radius: 10px;
+    margin: 2rem;
+  }
+}

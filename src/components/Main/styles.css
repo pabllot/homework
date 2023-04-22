@@ -1,102 +1,95 @@
 .mainWrapper {
-    width: 100vw;
-    height: 100vh;
-    background: #144272;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: #144272;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
 }
 
 .LessonContainer {
-    width: 64%;
-    height: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-p {   
-    color: rgb(255, 255, 255);
-    border-radius: 15px;
-    background-color: #D2001A;
-    width: 5rem;
-    height: 7rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 5px;
-    margin: 7px;
-    font-family: 'Sofia', sans-serif;
-    font-size: 3rem;
-    font-weight: 500;
-    transition: height 0.1s;
-    position: relative;
-    overflow: hidden;
-
+  width: 64%;
+  height: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-p::before{
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 0;
-    height: 0;
-    box-sizing: border-box;
-    background-color: rgba(250, 250, 255, 0.112);
-    border-radius: 5px;
+p {
+  color: rgb(255, 255, 255);
+  border-radius: 15px;
+  background-color: #d2001a;
+  width: 5rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  margin: 7px;
+  font-family: "Sofia", sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  transition: height 0.1s;
+  position: relative;
+  overflow: hidden;
+  -webkit-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
+  box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
+}
 
-  
-    border-bottom: 4px solid transparent;
-    border-left: 4px solid transparent;
-    transition: all 0.8s ease;
+p::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 0;
+  box-sizing: border-box;
+  background-color: rgba(250, 250, 255, 0.112);
+  border-radius: 5px;
+
+  border-bottom: 2px solid transparent;
+  border-left: 2px solid transparent;
+  transition: all 0.8s ease;
 }
 p::after {
-    content: '';
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 0;
-    height: 0;
-    box-sizing: border-box;
-    background-color:  rgba(250, 250, 255, 0.112);
-    border-radius: 5px;
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  box-sizing: border-box;
+  background-color: rgba(250, 250, 255, 0.112);
+  border-radius: 5px;
 
-  
-    border-top: 4px solid transparent;
-    border-right: 4px solid transparent;
-    transition: all 0.8s ease;
+  border-top: 2px solid transparent;
+  border-right: 2px solid transparent;
+  transition: all 0.8s ease;
 }
 p:hover::after,
 p:hover::before {
-    border-color: #D2001A;;
-    width: 100%;
-    height: 100%;
-    background-color: transparent;
-    border-radius: 5px;
-
+  border-color: #d2001a;
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  border-radius: 5px;
 }
 p:hover {
-    transition: 0.5s;
-    color: #dedcdc;
-    background-color: transparent;
-    border-radius: 5px;
-
-
+  transition: 0.5s;
+  color: #dedcdc;
+  background-color: transparent;
+  border-radius: 5px;
 }
 
-@media only screen and (max-width:700px) {
-    .LessonContainer{
-        width: 83%;
-
-    }
+@media only screen and (max-width: 700px) {
+  .LessonContainer {
+    width: 83%;
+  }
 }
-
 
 @media only screen and (max-width: 350) {
 }
-
-  
