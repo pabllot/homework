@@ -1,28 +1,30 @@
 .arrowBack {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 2rem;
-    height: 2rem;
-    background-color: white;
-    position: fixed;
-    bottom: .8rem;
-    right: .4rem;
-    border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  background-color: white;
+  position: fixed;
+  bottom: 0.8rem;
+  right: 0.4rem;
+  border-radius: 25px;
+  z-index: 999;
+  color: #144272;
 }
 
 @media only screen and (min-width: 600px) {
-        .arrowBack {
-            width: 4rem;
-            height: 4rem;
-            border-radius: 50px;
-            bottom: 2rem;
-            right: 2rem;
-        }
+  .arrowBack {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50px;
+    bottom: 2rem;
+    right: 2rem;
+  }
 
-        svg {
-            width: 4rem;
-            height: 2rem;
-            color: #144272;
-        }
-    }
+  svg {
+    width: 1.2em;
+    height: 2rem;
+    color: #144272;
+  }
+}
