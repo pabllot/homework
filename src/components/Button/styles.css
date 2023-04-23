@@ -1,0 +1,23 @@
+.container-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  height: 40px;
+  width: 40px;
+  cursor: pointer;
+  background: none;
+}
+.send-icon {
+  display: flex;
+  align-items: center;
+  width: 20px;
+  justify-content: center;
+  background: none;
+  padding: 0.3rem;
+  border: none;
+  outline: none;
+}
+.send-icon > svg {
+  height: 20px;
+}

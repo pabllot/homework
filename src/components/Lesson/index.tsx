@@ -25,7 +25,13 @@ export const Lesson = ({ lessonData, title }: any) => {
               viewport={{ once: true }}
             >
               <h4>{item.question}</h4>
-              <div>
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+              >
                 <input onChange={(e) => setAnswerSubmited(e.target.value)} />
                 <Button answerSubmited={answerSubmited} answer={item.answer} number={item.number} />
               </div>
