@@ -23,9 +23,7 @@
   width: 20rem;
   height: 5rem;
 
-  padding: 10px;
   background-color: #144272;
-  margin: 0.5rem 0;
   border-radius: 0 !important;
   -webkit-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 8px 11px 12px -3px rgba(0, 0, 0, 0.75);
@@ -55,7 +53,7 @@ input {
   font-weight: 300;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 800px) {
   .QuestionContainer {
     flex-direction: row;
     flex-wrap: wrap;

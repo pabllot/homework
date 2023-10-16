@@ -22,15 +22,15 @@ const Button = ({ answer, answerSubmited }: Props) => {
     <button className="container-button" onClick={() => evaluate(answer, answerSubmited)}>
       {!btn ? (
         <div className="send-icon">
-          <FiSend color="rgb(159, 203, 196)" size={20} />
+          <FiSend color="rgb(159, 203, 196)" />
         </div>
       ) : btn === "Right" ? (
         <div className="send-icon">
-          <IoCheckmarkDoneOutline color={color} size={20} />
+          <IoCheckmarkDoneOutline color={color} />
         </div>
       ) : (
         <div className="send-icon">
-          <MdClose color={color} size={20} />
+          <MdClose color={color} />
         </div>
       )}
     </button>

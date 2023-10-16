@@ -40,49 +40,24 @@ p:hover {
   transform: translateY(-3px);
 }
 
-/* p::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 0;
-  height: 0;
-  box-sizing: border-box;
-  background-color: rgba(250, 250, 255, 0.112);
-
-  border-bottom: 2px solid transparent;
-  border-left: 2px solid transparent;
-  transition: all 0.8s ease;
-}
-p::after {
-  content: "";
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 0;
-  height: 0;
-  box-sizing: border-box;
-  background-color: rgba(250, 250, 255, 0.112);
-
-  border-top: 2px solid transparent;
-  border-right: 2px solid transparent;
-  transition: all 0.8s ease;
-}
-p:hover::after,
-p:hover::before {
-  border-color: #d2001a;
-  width: 100%;
-  height: 100%;
-  background-color: transparent;
-}
-p:hover {
-  transition: 0.5s;
-  color: #dedcdc;
-  background-color: transparent;
-} */
 @media (max-width: 1366px) {
   .LessonContainer {
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(6, 1fr);
+  }
+}
+
+@media (max-width: 992px) {
+  .LessonContainer {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    padding: 1.5rem;
+  }
+}
+@media (max-width: 800px) {
+  .LessonContainer {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    padding: 1.5rem;
   }
 }
