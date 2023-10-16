@@ -1,7 +1,7 @@
 //@ts-ignore
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
-import { Lessons } from "./components/Lessons";
+import { Lessons } from "./pages/Lessons";
 import Home from "./pages/Home";
 
 function AppRoutes() {

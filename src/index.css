@@ -1,9 +1,7 @@
-body {
-  height: 100vh;
+* {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
-  background: #144272;
+  padding: 0;
 }
 
 .QuestionContainer {
@@ -12,6 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100%;
+  width: 100%;
   background: #0a2647;
   position: relative;
 }

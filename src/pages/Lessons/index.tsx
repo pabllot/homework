@@ -1,4 +1,4 @@
-import { Lesson } from "../Lesson";
+import { Lesson } from "../../components/Lesson";
 import data from "../../config/data.json";
 
 export const Lessons = () => {
